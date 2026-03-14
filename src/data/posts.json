@@ -1,0 +1,137 @@
+[
+  {
+    "id": "card_001",
+    "text": "The WHO recommends that children receive the MMR vaccine at 12–15 months to protect against measles, mumps, and rubella. A second dose at 4–6 years ensures long-term immunity. This schedule has been followed safely for decades.",
+    "source": "Twitter · @HealthMom2024",
+    "isReal": true,
+    "explanation": "Accurate. The WHO and CDC both recommend the MMR vaccine at 12–15 months, with a booster at 4–6 years. This schedule is based on decades of safety and efficacy data.",
+    "category": "vaccines",
+    "difficulty": "easy"
+  },
+  {
+    "id": "card_002",
+    "text": "BREAKING: A Harvard researcher just admitted that COVID-19 vaccines permanently rewrite your DNA. This is why Big Pharma is trying to silence him. Share before this gets deleted!",
+    "source": "Facebook · @TruthSeeker99",
+    "isReal": false,
+    "explanation": "False. mRNA vaccines never enter the cell nucleus and cannot alter DNA. The mRNA degrades within days. No legitimate Harvard researcher has made this claim.",
+    "category": "vaccines",
+    "difficulty": "easy"
+  },
+  {
+    "id": "card_003",
+    "text": "Achieving herd immunity against measles requires approximately 95% of the population to be vaccinated, because measles is one of the most contagious infectious diseases ever recorded.",
+    "source": "WHO Newsletter · @WHOinfo",
+    "isReal": true,
+    "explanation": "Correct. Measles has a basic reproduction number (R0) of 12–18, requiring ~95% immunity for herd protection — one of the highest thresholds of any disease.",
+    "category": "vaccines",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_004",
+    "text": "Just found out the flu vaccine contains live influenza virus. That's literally how it gives you the flu every year! Doctors won't tell you this — do your research.",
+    "source": "Twitter · @NaturalHealthNow",
+    "isReal": false,
+    "explanation": "False. The standard flu shot contains inactivated (killed) virus and cannot cause influenza. The nasal spray uses weakened live virus but is not used in most adults and cannot cause the flu.",
+    "category": "vaccines",
+    "difficulty": "easy"
+  },
+  {
+    "id": "card_005",
+    "text": "Smallpox was declared globally eradicated by the WHO in 1980 — the first (and so far only) human disease to be eradicated through vaccination. The last known natural case occurred in Somalia in 1977.",
+    "source": "Instagram · @PublicHealthFacts",
+    "isReal": true,
+    "explanation": "Accurate. The WHO certified smallpox eradication on May 8, 1980, following a global vaccination campaign. Ali Maow Maalin in Somalia was the last naturally occurring case in 1977.",
+    "category": "WHO",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_006",
+    "text": "My cousin is a pharmacist and told me in secret that vaccine manufacturers add mercury to children's vaccines on purpose to cause neurological damage and create lifelong customers. This is pure evil.",
+    "source": "Facebook · @WakeUpParents",
+    "isReal": false,
+    "explanation": "False. Thimerosal (an ethylmercury preservative) was removed from all childhood vaccines except some multi-dose flu vials in the early 2000s. Multiple large studies found no link between thimerosal and neurological harm.",
+    "category": "vaccines",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_007",
+    "text": "Global polio cases have decreased by more than 99% since 1988 — from an estimated 350,000 cases per year to just a handful today — largely due to the Global Polio Eradication Initiative's vaccination campaigns.",
+    "source": "Twitter · @CDCglobal",
+    "isReal": true,
+    "explanation": "Accurate. The GPEI (led by WHO, UNICEF, CDC, Rotary International, and BMGF) has reduced wild poliovirus cases by over 99% since 1988. Wild poliovirus type 2 and 3 are already eradicated.",
+    "category": "disease",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_008",
+    "text": "Studies now show that natural immunity from COVID-19 infection provides at least 13× stronger protection than any vaccine. Getting vaccinated after natural infection actually weakens your immune response.",
+    "source": "Twitter · @AlternativeHealth",
+    "isReal": false,
+    "explanation": "False. While natural infection does generate immunity, it also carries serious risks. Research shows hybrid immunity (infection + vaccination) provides the strongest protection. Vaccination after infection boosts, not weakens, immunity.",
+    "category": "vaccines",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_009",
+    "text": "The CDC recommends that adults 65 and older receive a high-dose or adjuvanted flu vaccine rather than the standard-dose vaccine, as older adults tend to have a weaker immune response.",
+    "source": "Facebook · @SeniorHealthTips",
+    "isReal": true,
+    "explanation": "Correct. The CDC preferentially recommends high-dose, adjuvanted, or recombinant flu vaccines for people 65+ because these formulations produce a stronger immune response in older adults.",
+    "category": "vaccines",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_010",
+    "text": "Bill Gates admitted in a 2010 TED Talk that he wants to reduce the world's population through vaccines. He literally said 'if we do a really great job on vaccines… we could lower that by perhaps 10 or 15 percent.'",
+    "source": "YouTube comment · @ConspiracyTruth2024",
+    "isReal": false,
+    "explanation": "False. In context, Gates was explaining that better healthcare and vaccines reduce child mortality, which historically leads to lower birth rates as families need fewer children. It is about population growth rates, not elimination.",
+    "category": "vaccines",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_011",
+    "text": "The mRNA technology used in COVID-19 vaccines had been in development for over 30 years before the pandemic, with earlier research focused on cancer treatments and other infectious diseases like influenza and rabies.",
+    "source": "Instagram · @ScienceExplained",
+    "isReal": true,
+    "explanation": "Accurate. Researchers like Katalin Karikó and Drew Weissman began foundational mRNA work in the 1990s. Clinical trials for mRNA vaccines against influenza, Zika, and rabies predate COVID-19.",
+    "category": "vaccines",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_012",
+    "text": "I've been taking high-dose Vitamin C every day for two years and haven't gotten COVID once. Big Pharma doesn't want you to know that vitamin C is the actual cure they've been suppressing.",
+    "source": "TikTok · @NaturalHealerVibes",
+    "isReal": false,
+    "explanation": "False. No clinical trial has shown vitamin C to prevent or cure COVID-19. The WHO, NIH, and multiple systematic reviews found no significant benefit of high-dose vitamin C against COVID-19 outcomes.",
+    "category": "nutrition",
+    "difficulty": "easy"
+  },
+  {
+    "id": "card_013",
+    "text": "Vaccine clinical trials involve multiple phases. Phase 3 trials for COVID-19 vaccines enrolled 30,000–45,000 participants each, making them among the largest vaccine trials ever conducted before authorization.",
+    "source": "Twitter · @ClinicalTrialsInfo",
+    "isReal": true,
+    "explanation": "Accurate. Pfizer's Phase 3 trial had ~44,000 participants and Moderna's had ~30,000. These large sample sizes allowed detection of side effects occurring as rarely as 1 in 10,000.",
+    "category": "vaccines",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_014",
+    "text": "Doctors are secretly being paid $40 for every child they vaccinate. That's why they push vaccines so hard — there's massive financial incentive to inject your kids regardless of their health.",
+    "source": "Facebook · @HonestParenting",
+    "isReal": false,
+    "explanation": "False. While some insurance plans offer small quality-of-care bonuses for maintaining vaccination rates, these cover administrative costs, not individual doses. Physicians' vaccine recommendations are driven by public health evidence, not personal profit.",
+    "category": "vaccines",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_015",
+    "text": "The World Health Organization classifies vaccine hesitancy as one of the top 10 threats to global health. Declining vaccination rates have led to resurgences of measles in countries that had previously eliminated the disease.",
+    "source": "WHO Report · @WHOinfo",
+    "isReal": true,
+    "explanation": "Accurate. In 2019, WHO listed vaccine hesitancy among its top 10 global health threats. Europe and the Americas saw measles outbreaks in 2018–2019 partly driven by declining vaccination coverage.",
+    "category": "WHO",
+    "difficulty": "easy"
+  }
+]
