@@ -14,6 +14,9 @@ export default function App() {
     isGameOver,
     accuracy,
     totalAnswered,
+    highScore,
+    gamesPlayed,
+    isNewRecord,
     swipe,
     restart,
   } = useCardDeck();
@@ -25,6 +28,9 @@ export default function App() {
           score={score}
           accuracy={accuracy}
           totalAnswered={totalAnswered}
+          highScore={highScore}
+          gamesPlayed={gamesPlayed}
+          isNewRecord={isNewRecord}
           onRestart={restart}
         />
       </div>
@@ -35,7 +41,7 @@ export default function App() {
     <div className="app">
       <header className="app-header">
         <h1 className="app-title">Health Fact Check</h1>
-        <ScoreBoard score={score} streak={streak} />
+        <ScoreBoard score={score} streak={streak} highScore={highScore} />
       </header>
 
       <div className="instructions">

@@ -1,4 +1,4 @@
-export default function ScoreBoard({ score, streak }) {
+export default function ScoreBoard({ score, streak, highScore }) {
   const multiplier =
     streak >= 5 ? '×3' : streak >= 3 ? '×2' : null;
 
@@ -14,6 +14,11 @@ export default function ScoreBoard({ score, streak }) {
           {streak >= 1 ? `🔥 ${streak}` : streak}
         </div>
         <div className="score-label">Streak{multiplier ? ` ${multiplier}` : ''}</div>
+      </div>
+      <div className="score-divider" />
+      <div className="score-item">
+        <div className="score-value score-best">{highScore}</div>
+        <div className="score-label">Best</div>
       </div>
     </div>
   );

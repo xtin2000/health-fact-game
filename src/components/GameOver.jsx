@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 
-export default function GameOver({ score, accuracy, totalAnswered, onRestart }) {
+export default function GameOver({ score, accuracy, totalAnswered, highScore, gamesPlayed, isNewRecord, onRestart }) {
   const grade =
     accuracy >= 90 ? 'S' :
     accuracy >= 75 ? 'A' :
@@ -22,6 +22,10 @@ export default function GameOver({ score, accuracy, totalAnswered, onRestart }) 
     >
       <h2>Game Over</h2>
 
+      {isNewRecord && (
+        <div className="new-record-badge">NEW RECORD!</div>
+      )}
+
       <div className="final-score">{score}</div>
       <div className="final-score-label">points</div>
 
@@ -37,6 +41,14 @@ export default function GameOver({ score, accuracy, totalAnswered, onRestart }) 
         <div className="stat-card">
           <div className="stat-value">{totalAnswered}</div>
           <div className="stat-label">Cards played</div>
+        </div>
+        <div className="stat-card">
+          <div className="stat-value">{highScore}</div>
+          <div className="stat-label">Best score</div>
+        </div>
+        <div className="stat-card">
+          <div className="stat-value">{gamesPlayed}</div>
+          <div className="stat-label">Games played</div>
         </div>
       </div>
 

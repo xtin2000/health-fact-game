@@ -26,6 +26,14 @@ export function useCardDeck() {
   const [isFetching, setIsFetching] = useState(false);
   const seenIds = useRef(new Set(initialCards.map(c => c.id)));
 
+  // localStorage — load on first render
+  const [highScore, setHighScore] = useState(
+    () => parseInt(localStorage.getItem('hfg_highScore') || '0', 10)
+  );
+  const [gamesPlayed, setGamesPlayed] = useState(
+    () => parseInt(localStorage.getItem('hfg_gamesPlayed') || '0', 10)
+  );
+
   // Auto-dismiss result overlay after 2.5 s
   useEffect(() => {
     if (!lastResult) return;
@@ -55,8 +63,15 @@ export function useCardDeck() {
     const newStreak = correct ? streak + 1 : 0;
     const multiplier = getMultiplier(newStreak);
     const points = correct ? 10 * multiplier : 0;
+    const newScore = score + points;
 
-    setScore(prev => prev + points);
+    // Update high score in localStorage immediately if beaten
+    if (newScore > highScore) {
+      setHighScore(newScore);
+      localStorage.setItem('hfg_highScore', String(newScore));
+    }
+
+    setScore(newScore);
     setStreak(newStreak);
     setResults(prev => [...prev, { correct }]);
     setLastResult({ correct, card, points, multiplier });
@@ -64,6 +79,11 @@ export function useCardDeck() {
   }
 
   function restart() {
+    // Save games played when the user starts a new game (i.e. just finished one)
+    const newGamesPlayed = gamesPlayed + 1;
+    setGamesPlayed(newGamesPlayed);
+    localStorage.setItem('hfg_gamesPlayed', String(newGamesPlayed));
+
     setDeck(shuffle(initialCards));
     setResults([]);
     setScore(0);
@@ -79,6 +99,9 @@ export function useCardDeck() {
 
   const isGameOver = deck.length === 0 && !isFetching;
 
+  // Flag a new record when the game ends
+  const isNewRecord = isGameOver && score > 0 && score >= highScore;
+
   return {
     deck,
     score,
@@ -88,6 +111,9 @@ export function useCardDeck() {
     isGameOver,
     accuracy,
     totalAnswered: results.length,
+    highScore,
+    gamesPlayed,
+    isNewRecord,
     swipe,
     restart,
   };

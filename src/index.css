@@ -297,6 +297,22 @@ body {
 .restart-btn:hover  { transform: scale(1.05); opacity: 0.92; }
 .restart-btn:active { transform: scale(0.97); }
 
+/* ── New record badge ── */
+.new-record-badge {
+  display: inline-block;
+  background: linear-gradient(to right, #f7971e, #ffd200);
+  color: #0f0c29;
+  font-weight: 900;
+  font-size: 0.85rem;
+  letter-spacing: 2px;
+  padding: 5px 16px;
+  border-radius: 50px;
+  margin-bottom: 8px;
+  animation: pulse 1s ease-in-out infinite;
+}
+
+.score-best { color: #a78bfa; }
+
 /* ── Misc ── */
 .fetching-banner {
   font-size: 0.78rem;
