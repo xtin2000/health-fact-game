@@ -133,5 +133,1670 @@
     "explanation": "Accurate. In 2019, WHO listed vaccine hesitancy among its top 10 global health threats. Europe and the Americas saw measles outbreaks in 2018–2019 partly driven by declining vaccination coverage.",
     "category": "WHO",
     "difficulty": "easy"
+  },
+  {
+    "id": "card_016",
+    "text": "The HPV vaccine has been shown to reduce cervical cancer rates by up to 90% in countries with high vaccination coverage. It is recommended for preteens aged 11–12 before potential exposure to the virus.",
+    "source": "Twitter · @OncologyToday",
+    "isReal": true,
+    "explanation": "Accurate. Countries like Australia and Scotland with high HPV vaccination rates have seen dramatic drops in cervical cancer and precancerous lesions. The vaccine is most effective when given before first HPV exposure.",
+    "category": "vaccines",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_017",
+    "text": "SHOCKING: The HPV vaccine is causing thousands of teenage girls to become infertile. Doctors are hiding the data. Parents — protect your daughters and refuse this dangerous shot!",
+    "source": "Facebook · @ProtectOurKids2023",
+    "isReal": false,
+    "explanation": "False. Extensive studies involving millions of vaccinated girls found no evidence of infertility or reduced ovarian function. The American College of Obstetricians and Gynecologists strongly recommends HPV vaccination.",
+    "category": "vaccines",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_018",
+    "text": "Tdap booster vaccines are recommended during every pregnancy, ideally between 27–36 weeks, to help protect newborns from whooping cough (pertussis) before they are old enough to be vaccinated themselves.",
+    "source": "Instagram · @MidwifeAdvice",
+    "isReal": true,
+    "explanation": "Correct. The CDC and ACOG recommend Tdap during each pregnancy to transfer maternal antibodies to the baby. Whooping cough can be life-threatening in infants under 2 months.",
+    "category": "vaccines",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_019",
+    "text": "Giving babies multiple vaccines at once overloads their immune system. A child's immune system can only handle one or two vaccines at a time. Sticking to the schedule does permanent damage.",
+    "source": "Blog · @GentleParentingNaturally",
+    "isReal": false,
+    "explanation": "False. Infants' immune systems are exposed to thousands of antigens daily. Research by Dr. Paul Offit showed a baby's immune system could theoretically handle 10,000 vaccines simultaneously. The schedule is designed for optimal protection.",
+    "category": "vaccines",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_020",
+    "text": "The shingles vaccine (Shingrix) is more than 90% effective at preventing shingles and post-herpetic neuralgia in adults 50 and older, and is recommended even for people who have already had shingles.",
+    "source": "Twitter · @GeriatricsMD",
+    "isReal": true,
+    "explanation": "Accurate. Clinical trials showed Shingrix had 91% efficacy against shingles in adults 50–69 and 89% in those 70+. The CDC recommends 2 doses even for people with prior shingles episodes.",
+    "category": "vaccines",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_021",
+    "text": "Aluminum in vaccines is a neurotoxin that builds up in your brain over time. Children receive 17 doses of aluminum-containing vaccines by age 2 — that's why autism rates have exploded.",
+    "source": "Twitter · @AluminumTruth",
+    "isReal": false,
+    "explanation": "False. The aluminum salts (adjuvants) used in vaccines are present in microgram quantities far below safety thresholds. Infants ingest more aluminum through breast milk and formula. Extensive studies find no link between vaccine aluminum and neurodevelopmental harm.",
+    "category": "vaccines",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_022",
+    "text": "Rotavirus vaccines have prevented an estimated 40,000–50,000 hospitalizations in the U.S. annually since their introduction in 2006, and have dramatically reduced child deaths from diarrheal disease in developing countries.",
+    "source": "CDC Report · @CDCglobal",
+    "isReal": true,
+    "explanation": "Accurate. Before rotavirus vaccination, the disease caused ~400,000 physician visits and 70,000 hospitalizations in the U.S. each year. Global impact has been even greater, reducing child diarrheal deaths substantially.",
+    "category": "vaccines",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_023",
+    "text": "My 2-year-old got 4 vaccines in one visit and developed a fever that night. The doctor said it was normal but I know the vaccines caused permanent damage to her nervous system. No more shots for my family.",
+    "source": "Facebook · @VaccineInjuredMom",
+    "isReal": false,
+    "explanation": "False. Mild fever after vaccination is an expected immune response and resolves within 1–2 days. It indicates the immune system is responding correctly. Thousands of studies confirm no lasting neurological harm from routine childhood vaccines.",
+    "category": "vaccines",
+    "difficulty": "easy"
+  },
+  {
+    "id": "card_024",
+    "text": "The COVID-19 vaccines developed by Pfizer and Moderna showed approximately 95% efficacy in preventing symptomatic disease in their Phase 3 trials, which were completed in late 2020.",
+    "source": "NEJM · @MedicalJournalNews",
+    "isReal": true,
+    "explanation": "Accurate. The Pfizer-BioNTech vaccine showed 95% efficacy and Moderna's showed 94.1% against symptomatic COVID-19 in Phase 3 trials published in the New England Journal of Medicine in December 2020.",
+    "category": "vaccines",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_025",
+    "text": "URGENT: Pfizer documents released under FOIA show 1,223 deaths within 90 days of vaccination. The FDA knew and covered it up. The vaccine is more deadly than COVID itself.",
+    "source": "Telegram · @PfizerLeaks",
+    "isReal": false,
+    "explanation": "False. The released documents were routine adverse event reports — a standard pharmacovigilance tool where anyone can report, regardless of vaccine causation. With hundreds of millions vaccinated, some people will coincidentally die from unrelated causes shortly after. No causal link was established.",
+    "category": "vaccines",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_026",
+    "text": "Myocarditis linked to mRNA COVID vaccines is rare (about 1–5 cases per 100,000 doses), occurs mostly in young males after the second dose, and the majority of cases resolve quickly with rest and anti-inflammatory treatment.",
+    "source": "Twitter · @CardiologyJournal",
+    "isReal": true,
+    "explanation": "Accurate. The CDC and multiple studies confirmed rare myocarditis cases, predominantly in males aged 12–29 after the second mRNA dose. Most cases were mild and resolved within weeks. The risk of myocarditis from COVID-19 infection itself is much higher.",
+    "category": "vaccines",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_027",
+    "text": "Graphene oxide was found in every COVID vaccine by multiple independent labs. It causes blood clots, interferes with your electromagnetic field, and can be activated by 5G signals. This is population control.",
+    "source": "Rumble · @FreedomResearcher",
+    "isReal": false,
+    "explanation": "False. No credible laboratory has found graphene oxide in COVID vaccines. The claim originated from a misinterpreted non-peer-reviewed Spanish paper. Vaccine ingredients are publicly listed and independently verified by regulatory agencies worldwide.",
+    "category": "vaccines",
+    "difficulty": "easy"
+  },
+  {
+    "id": "card_028",
+    "text": "Pregnant people can safely receive the flu vaccine during any trimester of pregnancy. Vaccination during pregnancy also helps protect newborns, who cannot receive the flu vaccine until 6 months of age.",
+    "source": "ACOG · @ObGynHealth",
+    "isReal": true,
+    "explanation": "Correct. The CDC and ACOG recommend the inactivated flu vaccine during any trimester. Maternal antibodies cross the placenta to provide newborns some protection. Flu during pregnancy increases risk of severe illness and preterm birth.",
+    "category": "vaccines",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_029",
+    "text": "Breastfeeding naturally provides babies with complete immunity against all diseases. Vaccinating breastfed babies is unnecessary and potentially harmful since breast milk already contains all the antibodies they need.",
+    "source": "Instagram · @NaturalMomNetwork",
+    "isReal": false,
+    "explanation": "False. While breast milk does contain antibodies that provide some protection, this immunity is temporary, passive, and incomplete. Breastfed babies still need vaccines because breast milk cannot substitute for active, long-lasting vaccine-induced immunity.",
+    "category": "vaccines",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_030",
+    "text": "The Vaccine Adverse Event Reporting System (VAERS) is a passive surveillance system where anyone — including non-medical professionals — can submit a report. A VAERS report does not establish that a vaccine caused any event.",
+    "source": "CDC Explainer · @CDCglobal",
+    "isReal": true,
+    "explanation": "Accurate. VAERS is designed to detect potential safety signals, not to prove causation. Lawyers, concerned parents, and anti-vaccine advocates routinely submit reports. The system's value lies in identifying patterns for further investigation.",
+    "category": "vaccines",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_031",
+    "text": "The 1918 Spanish flu pandemic infected an estimated 500 million people worldwide — about one-third of the world's population at the time — and killed between 50–100 million people.",
+    "source": "History Channel · @HistoryFacts",
+    "isReal": true,
+    "explanation": "Accurate. The 1918–1919 influenza pandemic is considered one of the deadliest in human history. Modern estimates suggest 50–100 million deaths globally, though exact numbers are uncertain due to poor record-keeping in some regions.",
+    "category": "disease",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_032",
+    "text": "Eating raw garlic every morning kills viruses better than any antiviral medication. During the 2020 pandemic, people in China who ate garlic daily had a 0% COVID infection rate. This is why hospitals are banning garlic.",
+    "source": "Facebook · @GarlicHeals",
+    "isReal": false,
+    "explanation": "False. No evidence supports garlic preventing COVID-19. The WHO specifically debunked this claim. The fabricated statistic about Chinese garlic eaters circulated widely on social media with no scientific basis.",
+    "category": "nutrition",
+    "difficulty": "easy"
+  },
+  {
+    "id": "card_033",
+    "text": "Ebola virus disease has a case fatality rate that varies significantly by outbreak, ranging from 25% to 90%. The 2014–2016 West Africa outbreak was the largest in history, with over 11,000 deaths.",
+    "source": "WHO Factsheet · @WHOinfo",
+    "isReal": true,
+    "explanation": "Accurate. WHO data confirms the wide variability in Ebola CFR depending on the strain and quality of healthcare response. The 2014–2016 Guinea-Sierra Leone-Liberia outbreak recorded 11,325 confirmed deaths.",
+    "category": "disease",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_034",
+    "text": "COVID-19 was 100% created in a Wuhan lab by Dr. Fauci using gain-of-function research funded by American taxpayer money through EcoHealth Alliance. This has been confirmed by multiple government whistleblowers.",
+    "source": "Twitter · @ExposeTheTruth2024",
+    "isReal": false,
+    "explanation": "False. The lab-leak hypothesis remains unresolved and is still investigated, but the claim that it is '100% confirmed' is false. Major scientific bodies and intelligence assessments remain divided. No confirmed whistleblower has substantiated this precise claim.",
+    "category": "disease",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_035",
+    "text": "Antimicrobial resistance (AMR) is projected to cause 10 million deaths annually by 2050 if current trends continue — surpassing cancer as a leading cause of death. The WHO calls it one of the greatest health threats of our time.",
+    "source": "Lancet · @GlobalHealthWatch",
+    "isReal": true,
+    "explanation": "Accurate. The 2014 Review on Antimicrobial Resistance commissioned by the UK government projected 10 million annual deaths from AMR by 2050. The WHO has designated AMR as a top global health priority.",
+    "category": "disease",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_036",
+    "text": "Antibiotics are effective against viral infections like the common cold and flu. Taking a course of antibiotics at the first sign of a cold will shorten your illness and prevent it from getting worse.",
+    "source": "Blog · @QuickHealthFix",
+    "isReal": false,
+    "explanation": "False. Antibiotics only work against bacteria, not viruses. Using them for viral infections doesn't help, causes side effects, and contributes to antibiotic resistance — one of the world's most pressing health threats.",
+    "category": "disease",
+    "difficulty": "easy"
+  },
+  {
+    "id": "card_037",
+    "text": "The Black Death (bubonic plague) in the 14th century killed an estimated 30–60% of Europe's population. The disease is caused by the bacterium Yersinia pestis, spread primarily through fleas on rodents.",
+    "source": "Medical History · @EpidemicsHistory",
+    "isReal": true,
+    "explanation": "Accurate. Modern estimates place Black Death mortality at 30–60% of the European population between 1347–1351. Y. pestis was confirmed through DNA analysis of skeletal remains. The disease still exists today and is treatable with antibiotics.",
+    "category": "disease",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_038",
+    "text": "5G towers are the real cause of COVID-19. The radiation activates dormant viruses implanted in your body through previous flu vaccines. This is why COVID only spread after 5G rollout.",
+    "source": "YouTube · @5GTruthNetwork",
+    "isReal": false,
+    "explanation": "False. Viruses cannot be transmitted via radio waves. COVID-19 spread in many regions without 5G infrastructure. Multiple countries without 5G experienced devastating outbreaks, while others with 5G had low case counts.",
+    "category": "disease",
+    "difficulty": "easy"
+  },
+  {
+    "id": "card_039",
+    "text": "Malaria kills approximately 600,000 people annually, mostly children under 5 in sub-Saharan Africa. The first WHO-recommended malaria vaccine (RTS,S/AS01) was approved in 2021 and is being rolled out across Africa.",
+    "source": "WHO Malaria Report · @WHOinfo",
+    "isReal": true,
+    "explanation": "Accurate. WHO data shows ~608,000 malaria deaths in 2021, with 80% in children under 5. The RTS,S vaccine (Mosquirix) received WHO recommendation in October 2021 after successful pilot programs in Ghana, Kenya, and Malawi.",
+    "category": "disease",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_040",
+    "text": "Lyme disease is spreading so fast that it now kills tens of thousands of Americans each year. CDC data proves that conventional medicine is deliberately underreporting Lyme deaths to protect the insurance industry.",
+    "source": "Facebook · @LymeWarriors",
+    "isReal": false,
+    "explanation": "False. Lyme disease is rarely fatal. The CDC estimates 476,000 new diagnoses annually but death from Lyme is extremely uncommon. 'Chronic Lyme' claims and conspiracy theories about underreporting are not supported by evidence.",
+    "category": "disease",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_041",
+    "text": "Hand washing with soap and water for at least 20 seconds is one of the most effective ways to prevent the spread of many infectious diseases, including norovirus, influenza, and COVID-19.",
+    "source": "CDC Guidelines · @CDCglobal",
+    "isReal": true,
+    "explanation": "Accurate. The CDC identifies handwashing as one of the best tools for preventing illness. Proper technique (20+ seconds) removes microbes effectively. Soap physically disrupts viral envelopes, including SARS-CoV-2.",
+    "category": "disease",
+    "difficulty": "easy"
+  },
+  {
+    "id": "card_042",
+    "text": "Drinking bleach diluted in water can cure COVID-19 and other viruses. Doctors have been using this method quietly for years, and it's why hospital mortality rates dropped after the pandemic peak.",
+    "source": "Telegram · @MiracleHealthSecret",
+    "isReal": false,
+    "explanation": "False. Ingesting bleach is extremely dangerous and potentially lethal. No legitimate medical authority endorses this. The FDA issued multiple emergency warnings against ingesting 'Miracle Mineral Supplement' (chlorine dioxide) products during the pandemic.",
+    "category": "disease",
+    "difficulty": "easy"
+  },
+  {
+    "id": "card_043",
+    "text": "The WHO's COVAX initiative aimed to deliver COVID-19 vaccines to lower-income countries. By mid-2022 it had delivered over 1.5 billion doses, though distribution faced significant supply and equity challenges.",
+    "source": "Reuters · @GlobalHealthNews",
+    "isReal": true,
+    "explanation": "Accurate. COVAX, co-led by WHO, CEPI, and Gavi, shipped 1.5+ billion doses by mid-2022. However, wealthy countries booking bilateral deals created supply shortages, and cold-chain infrastructure limited distribution in some regions.",
+    "category": "WHO",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_044",
+    "text": "A Mediterranean diet rich in fruits, vegetables, whole grains, olive oil, and fish is associated with reduced risk of cardiovascular disease, type 2 diabetes, and certain cancers.",
+    "source": "NEJM · @NutritionResearch",
+    "isReal": true,
+    "explanation": "Accurate. Multiple large studies including the PREDIMED trial demonstrated that the Mediterranean diet significantly reduces major cardiovascular events. It is one of the best-studied dietary patterns for chronic disease prevention.",
+    "category": "nutrition",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_045",
+    "text": "Eating after 8pm turns everything directly into fat because your metabolism completely stops at night. Celebrities who stay slim all avoid eating after sunset — the time of your last meal is the #1 factor in weight gain.",
+    "source": "Instagram · @FitLifeCoach",
+    "isReal": false,
+    "explanation": "False. Metabolism does not stop at night. What matters for weight is total calorie intake vs. expenditure. Some research suggests circadian rhythm can affect metabolism slightly, but meal timing is a minor factor compared to overall diet quality and quantity.",
+    "category": "nutrition",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_046",
+    "text": "Excessive consumption of ultra-processed foods — items containing additives, emulsifiers, and artificial flavors not used in home cooking — is linked to increased risk of obesity, type 2 diabetes, depression, and early death.",
+    "source": "BMJ · @NutritionJournal",
+    "isReal": true,
+    "explanation": "Accurate. Multiple cohort studies and a 2019 BMJ meta-analysis found each 10% increase in ultra-processed food consumption associated with a 14% higher all-cause mortality risk. The NovaNova classification system is widely used to define these foods.",
+    "category": "nutrition",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_047",
+    "text": "Drinking alkaline water (pH 8–9) neutralizes the acid in your body and prevents cancer, acid reflux, and aging. The human body cannot function properly in an acidic environment, which is why alkaline water is the cure.",
+    "source": "TikTok · @AlkalineLifestyle",
+    "isReal": false,
+    "explanation": "False. The body tightly regulates blood pH between 7.35–7.45 regardless of what you drink. Stomach acid (pH 2) immediately neutralizes alkaline water. There is no clinical evidence that alkaline water prevents cancer or aging.",
+    "category": "nutrition",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_048",
+    "text": "Vitamin D deficiency is highly prevalent worldwide, affecting an estimated 1 billion people. Deficiency is associated with increased risk of bone disease, autoimmune conditions, and potentially respiratory infections.",
+    "source": "Lancet · @GlobalHealthWatch",
+    "isReal": true,
+    "explanation": "Accurate. Studies consistently show widespread vitamin D deficiency, particularly in northern latitudes and among people with limited sun exposure. The link to bone disease is well-established; associations with immune function and other conditions are actively researched.",
+    "category": "nutrition",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_049",
+    "text": "Sugar is literally 8 times more addictive than cocaine, according to a major Princeton study. This is why food companies are deliberately engineering foods to create chemical addiction in children.",
+    "source": "Facebook · @RealFoodRevolution",
+    "isReal": false,
+    "explanation": "False. The '8 times more addictive' claim is a misrepresentation of rat studies. No rigorous human study supports this comparison. While sugar activates reward pathways, calling it 'more addictive than cocaine' is not supported by addiction science.",
+    "category": "nutrition",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_050",
+    "text": "Trans fats, produced through partial hydrogenation of vegetable oils, increase LDL ('bad') cholesterol and decrease HDL ('good') cholesterol. The FDA banned partially hydrogenated oils from the U.S. food supply effective 2020.",
+    "source": "FDA News · @FoodSafetyWatch",
+    "isReal": true,
+    "explanation": "Accurate. The FDA determined in 2015 that partially hydrogenated oils are no longer 'generally recognized as safe,' with full compliance required by 2020. Trans fats are strongly linked to increased cardiovascular disease risk.",
+    "category": "nutrition",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_051",
+    "text": "Organic food has dramatically higher levels of nutrients than conventional food and eating organic for just one week can detoxify your body from pesticides and reduce your cancer risk by 50%.",
+    "source": "Instagram · @OrganicEverything",
+    "isReal": false,
+    "explanation": "False. A 2012 Stanford meta-analysis found no strong evidence that organic foods are significantly more nutritious. The '50% cancer reduction' claim is fabricated. Organic farming does reduce some pesticide exposure, but bodies metabolize trace pesticide residues effectively.",
+    "category": "nutrition",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_052",
+    "text": "Excessive sodium intake is linked to high blood pressure, which increases the risk of heart disease and stroke. The WHO recommends adults consume less than 2 grams of sodium (about 5g of salt) per day.",
+    "source": "WHO Guidelines · @WHOinfo",
+    "isReal": true,
+    "explanation": "Accurate. The WHO recommends <2g sodium/day for adults. Global average intake is roughly twice this. Reducing salt intake is one of the most cost-effective public health interventions for reducing cardiovascular disease.",
+    "category": "nutrition",
+    "difficulty": "easy"
+  },
+  {
+    "id": "card_053",
+    "text": "Dairy products cause mucus production in your lungs and sinuses, which is why dairy must be avoided when sick or you'll make your respiratory illness dramatically worse and extend your illness by days.",
+    "source": "Blog · @NaturalRemediesHub",
+    "isReal": false,
+    "explanation": "False. Multiple studies have found no relationship between dairy consumption and mucus or phlegm production. A 1990 Australian double-blind study found no difference in nasal secretions between dairy and non-dairy drinkers, even with rhinovirus infection.",
+    "category": "nutrition",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_054",
+    "text": "Moderate coffee consumption (3–5 cups per day) is associated with reduced risk of type 2 diabetes, Parkinson's disease, liver cirrhosis, and certain cancers, according to multiple large observational studies.",
+    "source": "Harvard Health · @NutritionResearch",
+    "isReal": true,
+    "explanation": "Accurate. Numerous meta-analyses have found inverse associations between moderate coffee intake and risk of several chronic diseases. Coffee contains hundreds of bioactive compounds beyond caffeine, including antioxidants and anti-inflammatory agents.",
+    "category": "nutrition",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_055",
+    "text": "Gluten causes inflammation and brain damage in ALL people, not just celiacs. Neurologists who study 'wheat belly' and 'grain brain' have proven that everyone should eliminate gluten for optimal mental health.",
+    "source": "Twitter · @GrainBrainAdvocate",
+    "isReal": false,
+    "explanation": "False. Celiac disease affects ~1% of people and non-celiac gluten sensitivity is a recognized condition in a minority. However, there is no evidence that gluten causes brain damage or inflammation in the general healthy population. The 'grain brain' hypothesis is not endorsed by mainstream neurology.",
+    "category": "nutrition",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_056",
+    "text": "Smoking tobacco is the leading preventable cause of death in the United States, responsible for more than 480,000 deaths annually — including deaths from cancer, heart disease, and stroke.",
+    "source": "CDC Data · @PublicHealthFacts",
+    "isReal": true,
+    "explanation": "Accurate. The CDC consistently reports ~480,000 annual U.S. deaths attributable to smoking, including ~41,000 from secondhand smoke exposure. Smoking causes about 1 in 5 deaths in the U.S.",
+    "category": "disease",
+    "difficulty": "easy"
+  },
+  {
+    "id": "card_057",
+    "text": "E-cigarettes and vaping are completely harmless alternatives to smoking. Vapor contains only water and harmless flavoring — doctors have confirmed there are zero long-term health risks compared to cigarettes.",
+    "source": "Twitter · @VapeNation2024",
+    "isReal": false,
+    "explanation": "False. Vaping devices emit aerosols containing nicotine, heavy metals, and volatile organic compounds. The 2019 EVALI lung injury outbreak linked to vitamin E acetate in vaping products hospitalized 2,800+ Americans. Long-term risks are still being studied.",
+    "category": "disease",
+    "difficulty": "easy"
+  },
+  {
+    "id": "card_058",
+    "text": "Regular physical activity — at least 150 minutes of moderate-intensity aerobic exercise per week — reduces the risk of cardiovascular disease, type 2 diabetes, several cancers, and depression.",
+    "source": "WHO Physical Activity Guidelines · @WHOinfo",
+    "isReal": true,
+    "explanation": "Accurate. This is the WHO global recommendation for adults. Meta-analyses confirm physical activity reduces all-cause mortality, cardiovascular events, T2D incidence, and risk of colon, breast, and endometrial cancers.",
+    "category": "WHO",
+    "difficulty": "easy"
+  },
+  {
+    "id": "card_059",
+    "text": "Crystal healing therapy has been shown in peer-reviewed studies to cure stage 3 and 4 cancers by restoring the body's energy field. Oncologists know this but refuse to recommend it to protect chemotherapy profits.",
+    "source": "Instagram · @HolisticCancerCure",
+    "isReal": false,
+    "explanation": "False. No peer-reviewed study supports crystal healing as a cancer treatment. The claim that oncologists hide this to protect profits is a conspiracy theory. Using unproven therapies instead of evidence-based treatment can be life-threatening.",
+    "category": "disease",
+    "difficulty": "easy"
+  },
+  {
+    "id": "card_060",
+    "text": "Sleep deprivation increases the risk of obesity, type 2 diabetes, cardiovascular disease, and mental health disorders. Adults need 7–9 hours of sleep per night for optimal health, according to sleep medicine guidelines.",
+    "source": "AASM · @SleepMedicineJournal",
+    "isReal": true,
+    "explanation": "Accurate. The American Academy of Sleep Medicine recommends 7–9 hours for adults. Chronic sleep restriction disrupts glucose metabolism, increases cortisol, promotes inflammation, and is associated with significantly elevated risk of multiple chronic diseases.",
+    "category": "disease",
+    "difficulty": "easy"
+  },
+  {
+    "id": "card_061",
+    "text": "Sunscreen chemicals are absorbed into the bloodstream and cause cancer. The FDA did a study confirming this, which is why dermatologists have quietly stopped recommending daily sunscreen use.",
+    "source": "Facebook · @SunscreenScare",
+    "isReal": false,
+    "explanation": "False. A 2020 FDA study found some sunscreen chemicals absorb into blood, but blood levels don't imply harm. Dermatologists unanimously continue recommending sunscreen — UV radiation is a proven carcinogen causing 9,500+ skin cancer diagnoses daily in the U.S.",
+    "category": "disease",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_062",
+    "text": "The human papillomavirus (HPV) is responsible for nearly all cervical cancers. HPV is also linked to cancers of the oropharynx, anus, vagina, vulva, and penis.",
+    "source": "NCI · @CancerResearchNews",
+    "isReal": true,
+    "explanation": "Accurate. The CDC attributes 99% of cervical cancers to HPV infection. High-risk HPV strains (particularly 16 and 18) are causally linked to cancers at multiple anatomical sites. This is why HPV vaccination is one of the most effective cancer prevention tools available.",
+    "category": "disease",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_063",
+    "text": "Cancer is just a fungus and can be completely cured with baking soda. Italian oncologist Dr. Tullio Simoncini proved this decades ago — hospitals are suppressing the $1 cure to protect chemotherapy profits.",
+    "source": "YouTube · @CancerTruthChannel",
+    "isReal": false,
+    "explanation": "False. Cancer is uncontrolled cell division, not a fungal infection. Dr. Simoncini's medical license was revoked after patients died following his sodium bicarbonate 'treatments.' Multiple patients have died delaying real treatment for this false cure.",
+    "category": "disease",
+    "difficulty": "easy"
+  },
+  {
+    "id": "card_064",
+    "text": "Colorectal cancer is the second leading cause of cancer deaths in the U.S. Regular colonoscopies starting at age 45 can detect precancerous polyps before they become cancer, significantly reducing mortality.",
+    "source": "ACS · @CancerScreening",
+    "isReal": true,
+    "explanation": "Accurate. The American Cancer Society lowered the screening start age from 50 to 45 in 2018 due to rising rates in younger adults. Colonoscopy allows detection and removal of precancerous adenomatous polyps, directly preventing colorectal cancer.",
+    "category": "disease",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_065",
+    "text": "Mammograms cause more cancer than they prevent due to radiation exposure. Women who get annual mammograms have 75% higher lifetime cancer rates than those who avoid screening. Doctors pushing mammograms are causing harm.",
+    "source": "Blog · @AlternativeWomensHealth",
+    "isReal": false,
+    "explanation": "False. Mammography uses very low-dose radiation, far below levels associated with cancer risk. Major medical organizations including the WHO and USPSTF recommend regular mammograms based on evidence that screening reduces breast cancer mortality significantly.",
+    "category": "disease",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_066",
+    "text": "Lung cancer is the leading cause of cancer death worldwide. More than 80% of lung cancer cases are attributable to cigarette smoking, with risk increasing with both duration and amount smoked.",
+    "source": "WHO Cancer Report · @GlobalHealthWatch",
+    "isReal": true,
+    "explanation": "Accurate. The WHO confirms lung cancer as the most common cause of cancer mortality globally. Smoking is responsible for approximately 80–90% of cases. Risk increases in a dose-response relationship with cumulative cigarette exposure.",
+    "category": "disease",
+    "difficulty": "easy"
+  },
+  {
+    "id": "card_067",
+    "text": "There is a natural enzyme found in apricot pits (amygdalin / Laetrile) that specifically targets and destroys cancer cells. It has a 100% cure rate for cancer but the FDA banned it because it eliminates the need for chemo.",
+    "source": "Facebook · @NaturalCancerCures",
+    "isReal": false,
+    "explanation": "False. Amygdalin (marketed as Laetrile) converts to cyanide in the body. Multiple clinical trials found no anticancer effect. Several patients have died from cyanide poisoning after taking it. The FDA banned it as ineffective and dangerous, not to protect profits.",
+    "category": "disease",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_068",
+    "text": "Immunotherapy treatments, particularly checkpoint inhibitors, have transformed outcomes for some cancers including melanoma, non-small cell lung cancer, and bladder cancer, with some patients achieving durable long-term remissions.",
+    "source": "ASCO · @OncologyJournal",
+    "isReal": true,
+    "explanation": "Accurate. PD-1/PD-L1 and CTLA-4 inhibitors have become standard of care for multiple cancers. In advanced melanoma, 5-year survival rates increased from <10% to over 50% in some patient groups with ipilimumab/nivolumab combinations.",
+    "category": "disease",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_069",
+    "text": "Antidepressants are just placebos — studies show they work no better than sugar pills, and pharmaceutical companies have suppressed all the negative trials. If you're depressed, exercise and think positively instead.",
+    "source": "Twitter · @MindOverPharma",
+    "isReal": false,
+    "explanation": "False. A landmark 2018 Lancet meta-analysis of 522 trials with 116,000+ patients confirmed antidepressants are significantly more effective than placebo for major depression. While effect sizes vary, untreated depression carries serious risks including suicide.",
+    "category": "disease",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_070",
+    "text": "Depression is a leading cause of disability worldwide. The WHO estimates that more than 280 million people globally suffer from depression, making it one of the most prevalent mental health conditions.",
+    "source": "WHO Mental Health Report · @WHOinfo",
+    "isReal": true,
+    "explanation": "Accurate. WHO 2021 data estimates 280 million people globally live with depression. It is a leading cause of disability worldwide and a major contributor to the global burden of disease, especially when combined with anxiety.",
+    "category": "WHO",
+    "difficulty": "easy"
+  },
+  {
+    "id": "card_071",
+    "text": "Mental illness is caused by weak willpower and a lack of spiritual discipline. If someone truly wanted to get better, they could simply choose happiness. Psychiatric drugs are just a crutch that prevents real healing.",
+    "source": "Blog · @SpiritualHealthGuru",
+    "isReal": false,
+    "explanation": "False. Mental illnesses involve measurable changes in brain structure, chemistry, and neural circuits. Schizophrenia, bipolar disorder, and severe depression have strong genetic and neurobiological components. Withholding psychiatric treatment based on this belief causes real harm.",
+    "category": "disease",
+    "difficulty": "easy"
+  },
+  {
+    "id": "card_072",
+    "text": "Cognitive behavioral therapy (CBT) is one of the most well-studied and effective psychotherapies for depression, anxiety, PTSD, and OCD, with outcomes comparable to medication for many conditions.",
+    "source": "APA · @PsychologyToday",
+    "isReal": true,
+    "explanation": "Accurate. CBT has the largest evidence base of any psychotherapy modality. Over 2,000 studies support its efficacy. For mild-to-moderate depression and anxiety, CBT and medication show similar effect sizes, and combined treatment is often most effective.",
+    "category": "disease",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_073",
+    "text": "Eating ice cream and doing 'ice therapy' can reverse early-stage Alzheimer's disease by stimulating different parts of the brain. A group of Japanese researchers proved this and the pharmaceutical industry is suppressing their findings.",
+    "source": "Facebook · @AlternativeAlzheimersCure",
+    "isReal": false,
+    "explanation": "False. No credible research supports ice cream or cold therapy as treatments for Alzheimer's disease. Alzheimer's involves progressive neurodegeneration with no known cure. This is a fabricated claim with no peer-reviewed basis.",
+    "category": "disease",
+    "difficulty": "easy"
+  },
+  {
+    "id": "card_074",
+    "text": "Regular social connection and strong relationships are associated with better mental and physical health outcomes, including reduced mortality risk. Loneliness has health impacts comparable to smoking 15 cigarettes per day.",
+    "source": "Harvard Study · @SocialHealthResearch",
+    "isReal": true,
+    "explanation": "Accurate. The Harvard Study of Adult Development (80+ years) found social connection is the strongest predictor of late-life wellbeing. A 2015 meta-analysis by Julianne Holt-Lunstad found social isolation increases mortality risk comparably to heavy smoking.",
+    "category": "disease",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_075",
+    "text": "Opioid pain medications like OxyContin are completely non-addictive when prescribed by a doctor. Addiction only happens to people with weak character. You cannot become physically dependent when taking them as directed.",
+    "source": "Blog · @ChronicPainAdvocate",
+    "isReal": false,
+    "explanation": "False. Physical dependence can develop within days-weeks of regular opioid use, regardless of character. The opioid crisis is largely fueled by prescription pills — including among patients with no prior substance use disorder history. Purdue Pharma was held liable for marketing OxyContin as non-addictive.",
+    "category": "disease",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_076",
+    "text": "The opioid crisis in the United States has resulted in over 500,000 overdose deaths since 1999. Prescription opioids, heroin, and synthetic opioids like fentanyl have all contributed to this epidemic.",
+    "source": "CDC Opioid Data · @PublicHealthFacts",
+    "isReal": true,
+    "explanation": "Accurate. CDC data shows 564,000+ overdose deaths involving opioids from 1999–2020. The crisis has evolved through three waves: prescription opioids in the 1990s, heroin in the 2010s, and illicitly manufactured fentanyl in recent years.",
+    "category": "disease",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_077",
+    "text": "Type 2 diabetes can be put into remission through significant weight loss (10–15% of body weight) and lifestyle changes. This has been demonstrated in multiple large clinical trials including the DiRECT study.",
+    "source": "Lancet · @DiabetesResearch",
+    "isReal": true,
+    "explanation": "Accurate. The 2018 DiRECT trial showed 46% of participants achieved remission at 1 year through intensive dietary intervention and weight loss. Remission is defined as HbA1c below diabetic threshold without medication. Long-term remission is possible with sustained weight loss.",
+    "category": "disease",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_078",
+    "text": "Drinking urine in the morning (urine therapy) cures diabetes, cancer, and all autoimmune diseases. Ancient civilizations used this practice for thousands of years and modern medicine is trying to keep this free cure secret.",
+    "source": "YouTube · @UrinationHeals",
+    "isReal": false,
+    "explanation": "False. Urine is waste material excreted because the body doesn't need it. No clinical evidence supports urine therapy for any disease. Drinking urine can introduce bacteria and waste products back into the body and delay people from seeking real treatment.",
+    "category": "disease",
+    "difficulty": "easy"
+  },
+  {
+    "id": "card_079",
+    "text": "Hypertension (high blood pressure) is often called the 'silent killer' because it typically has no symptoms while increasing risk of heart attack, stroke, kidney failure, and other serious conditions.",
+    "source": "AHA · @HeartHealthNews",
+    "isReal": true,
+    "explanation": "Accurate. The American Heart Association reports that nearly half of U.S. adults have hypertension, and many are unaware. Since it rarely causes symptoms, regular screening is essential. Uncontrolled hypertension is a leading risk factor for cardiovascular disease globally.",
+    "category": "disease",
+    "difficulty": "easy"
+  },
+  {
+    "id": "card_080",
+    "text": "Pharmaceutical companies have had a working cure for HIV/AIDS since 1997 but are withholding it because HIV medications generate $30 billion per year. Magic Johnson was cured quietly but signed an NDA.",
+    "source": "Telegram · @HiddenHIVCure",
+    "isReal": false,
+    "explanation": "False. Modern antiretroviral therapy (ART) controls HIV so effectively that people can have undetectable viral loads and near-normal lifespans, but it is not a cure. Magic Johnson's health reflects successful ART, not a secret cure. Thousands of researchers globally are working on a cure with no incentive to hide it.",
+    "category": "disease",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_081",
+    "text": "Antiretroviral therapy (ART) for HIV has transformed it from a near-universal death sentence to a manageable chronic condition. People on effective ART can achieve undetectable viral loads and have life expectancies approaching those of HIV-negative individuals.",
+    "source": "Lancet HIV · @GlobalHealthWatch",
+    "isReal": true,
+    "explanation": "Accurate. Since the introduction of effective ART in the mid-1990s, HIV-related mortality has plummeted. A 2017 Lancet study found that a 20-year-old starting treatment today can expect to live into their 70s — close to normal life expectancy.",
+    "category": "disease",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_082",
+    "text": "There is conclusive scientific evidence that homeopathy works better than placebo for treating serious illnesses including diabetes, heart disease, and bacterial infections. Mainstream medicine ignores this evidence.",
+    "source": "Blog · @HomeopathyHeals",
+    "isReal": false,
+    "explanation": "False. Rigorous systematic reviews, including a 2015 Australian NHMRC report analyzing 1,800 studies, found no reliable evidence that homeopathy is effective for any health condition beyond placebo. Homeopathic products contain no measurable active ingredients.",
+    "category": "disease",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_083",
+    "text": "The World Health Organization defines health as 'a state of complete physical, mental and social well-being and not merely the absence of disease or infirmity.' This definition has been in the WHO constitution since 1948.",
+    "source": "WHO Constitution · @WHOinfo",
+    "isReal": true,
+    "explanation": "Accurate. This is the exact wording from the WHO Constitution adopted in 1946 and entered into force in 1948. While criticized for being idealistic and unmeasurable, it represented a landmark expansion of health beyond the purely biomedical model.",
+    "category": "WHO",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_084",
+    "text": "Eating red meat every day causes immediate and severe arteries blockages. A single hamburger permanently damages your cardiovascular system, which is why vegetarians never get heart disease.",
+    "source": "TikTok · @VeganHealthFacts",
+    "isReal": false,
+    "explanation": "False. While high consumption of processed red meat is associated with increased cardiovascular risk, single meals don't 'permanently damage' arteries. Vegetarians also get heart disease, though often at lower rates. Cardiovascular disease is multifactorial.",
+    "category": "nutrition",
+    "difficulty": "easy"
+  },
+  {
+    "id": "card_085",
+    "text": "Processed red meat (bacon, hot dogs, sausage) is classified as a Group 1 carcinogen by the International Agency for Research on Cancer (IARC), meaning there is sufficient evidence it causes colorectal cancer.",
+    "source": "IARC · @CancerResearchNews",
+    "isReal": true,
+    "explanation": "Accurate. In 2015, IARC classified processed meat as Group 1 carcinogenic (causes cancer) based on 800 studies. Unprocessed red meat is Group 2A (probably carcinogenic). The absolute risk increase is modest — about 18% increased colorectal cancer risk per 50g/day of processed meat.",
+    "category": "nutrition",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_086",
+    "text": "The human gut contains approximately 38 trillion microbial cells, roughly equal to the number of human cells in the body. This microbiome plays critical roles in digestion, immunity, and even mental health.",
+    "source": "Cell Journal · @MicrobiomeResearch",
+    "isReal": true,
+    "explanation": "Accurate. A 2016 study revised earlier estimates and found approximately equal numbers of microbial and human cells (~38 trillion each). The gut microbiome is heavily researched for its roles in metabolic health, immune regulation, and the gut-brain axis.",
+    "category": "nutrition",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_087",
+    "text": "Probiotics can cure lactose intolerance permanently. After taking a probiotic supplement for 30 days, your body will produce sufficient lactase enzymes and you'll be able to eat unlimited dairy with zero symptoms.",
+    "source": "Instagram · @ProbioticLife",
+    "isReal": false,
+    "explanation": "False. While some probiotic strains may temporarily improve lactose tolerance in some individuals, they do not 'cure' lactose intolerance or permanently restore lactase production. Lactose intolerance is primarily genetic and probiotics have modest, inconsistent effects.",
+    "category": "nutrition",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_088",
+    "text": "Added sugars in the American diet — primarily from sugary drinks, sweets, and processed foods — contribute to obesity, type 2 diabetes, and dental cavities. The Dietary Guidelines recommend limiting added sugar to <10% of daily calories.",
+    "source": "USDA Dietary Guidelines · @NutritionPolicy",
+    "isReal": true,
+    "explanation": "Accurate. The 2020–2025 U.S. Dietary Guidelines recommend limiting added sugars to less than 10% of daily calories. Current average American intake of added sugar far exceeds this. Strong evidence links high sugar intake to metabolic disease.",
+    "category": "nutrition",
+    "difficulty": "easy"
+  },
+  {
+    "id": "card_089",
+    "text": "Eating fat makes you fat — it's simple chemistry. Fat has 9 calories per gram vs 4 for carbs, so a low-fat diet is always the most effective strategy for weight loss and should be maintained for life.",
+    "source": "Blog · @LowFatLiving",
+    "isReal": false,
+    "explanation": "False. Weight gain is determined by total calorie surplus, not fat intake. Decades of research show low-fat diets are no more effective for long-term weight loss than other approaches. Healthy fats (olive oil, avocado, nuts) are important for health. The 'fat makes you fat' idea contributed to the obesity epidemic by driving increased sugar consumption in low-fat products.",
+    "category": "nutrition",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_090",
+    "text": "Fiber intake is associated with reduced risk of colorectal cancer, cardiovascular disease, type 2 diabetes, and obesity. Most Americans consume only about half the recommended 25–38 grams of fiber per day.",
+    "source": "Lancet · @NutritionJournal",
+    "isReal": true,
+    "explanation": "Accurate. A 2019 Lancet meta-analysis of 185 studies confirmed dose-response relationships between fiber intake and reduced risks of multiple chronic diseases. The fiber gap — between recommended and actual intake — is one of the most consistent nutritional deficiencies in Western diets.",
+    "category": "nutrition",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_091",
+    "text": "Detox teas and juice cleanses remove accumulated toxins from your liver, kidney, and blood. After a 7-day cleanse, your organs are completely regenerated and your cancer risk drops to nearly zero.",
+    "source": "Instagram · @DetoxWithMe",
+    "isReal": false,
+    "explanation": "False. The liver and kidneys continuously filter the blood without needing 'cleanses.' There are no scientifically identified 'toxins' that accumulate and require herbal teas to remove. Detox products are unregulated and some contain laxatives or hepatotoxic herbs.",
+    "category": "nutrition",
+    "difficulty": "easy"
+  },
+  {
+    "id": "card_092",
+    "text": "Lead exposure in children is associated with irreversible cognitive impairment, reduced IQ, behavioral problems, and developmental delays. There is no known safe level of lead exposure in children.",
+    "source": "CDC Lead Poisoning Data · @PublicHealthFacts",
+    "isReal": true,
+    "explanation": "Accurate. The CDC states there is no safe blood lead level in children. Lead is a neurotoxin that interferes with brain development. The Flint, Michigan water crisis brought renewed attention to the ongoing problem of lead in older plumbing and paint.",
+    "category": "disease",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_093",
+    "text": "Chemotherapy actually spreads cancer faster than no treatment at all. Oncologists know this but continue prescribing it because they receive a 20% kickback on every dose they administer to patients.",
+    "source": "Telegram · @AntiChemoTruth",
+    "isReal": false,
+    "explanation": "False. Chemotherapy has been shown in thousands of randomized controlled trials to improve survival and cure many cancers. Oncologists are not paid kickbacks per dose — physician compensation structures are regulated. This conspiracy theory discourages life-saving treatment.",
+    "category": "disease",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_094",
+    "text": "Air pollution is responsible for approximately 7 million premature deaths annually, making it the world's largest single environmental health risk, according to the WHO.",
+    "source": "WHO Air Quality Report · @WHOinfo",
+    "isReal": true,
+    "explanation": "Accurate. WHO data attributes 7 million annual premature deaths to air pollution — 4.2 million from outdoor (ambient) pollution and 3.8 million from household indoor pollution. Fine particulate matter (PM2.5) is the primary driver of this mortality.",
+    "category": "WHO",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_095",
+    "text": "Microchips embedded in COVID vaccines are too large to fit through a needle and have not been found in any independent analysis of vaccine vials. This claim has been debunked by electron microscopy studies.",
+    "source": "Science · @FactCheckMedicine",
+    "isReal": true,
+    "explanation": "Accurate. The smallest current RFID chips are much larger than a vaccine needle bore. Multiple independent labs worldwide have examined COVID vaccine contents by electron microscopy and mass spectrometry, finding only the declared ingredients.",
+    "category": "vaccines",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_096",
+    "text": "I got the COVID vaccine and now magnets stick to my arm at the injection site. I've seen dozens of videos proving this. It confirms nanoparticles in the vaccine are creating a magnetic field in vaccinated people.",
+    "source": "TikTok · @MagnetChallenge",
+    "isReal": false,
+    "explanation": "False. Vaccine ingredients are non-metallic and cannot create magnetism. The 'magnet challenge' videos work due to skin oils and moisture creating surface tension — the magnets 'stick' equally well to unvaccinated skin and even foreheads. No vaccine contains magnetic materials.",
+    "category": "vaccines",
+    "difficulty": "easy"
+  },
+  {
+    "id": "card_097",
+    "text": "Cardiovascular disease is the leading cause of death globally, responsible for an estimated 17.9 million deaths per year — about 32% of all global deaths, according to WHO data.",
+    "source": "WHO Cardiovascular Report · @WHOinfo",
+    "isReal": true,
+    "explanation": "Accurate. The WHO reports heart attacks and strokes cause 85% of cardiovascular deaths. Over three-quarters of CVD deaths occur in low- and middle-income countries. Most cardiovascular disease is preventable through lifestyle modification and medication.",
+    "category": "WHO",
+    "difficulty": "easy"
+  },
+  {
+    "id": "card_098",
+    "text": "Using your smartphone before bed has no effect on sleep quality. The 'blue light disrupts melatonin' claim is propaganda from mattress companies trying to sell sleep products. Doctors are in on this marketing scheme.",
+    "source": "Twitter · @TechDefender",
+    "isReal": false,
+    "explanation": "False. Multiple peer-reviewed studies confirm blue light from screens suppresses melatonin production. The American Academy of Sleep Medicine recommends avoiding screens 1–2 hours before bed. This finding is consistent across numerous independent research groups.",
+    "category": "disease",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_099",
+    "text": "Moderate alcohol consumption (1–2 drinks/day) was long thought to be beneficial for heart health based on observational studies. However, more recent Mendelian randomization and meta-analytic studies suggest no safe level of alcohol for cancer risk.",
+    "source": "Lancet · @AlcoholResearch",
+    "isReal": true,
+    "explanation": "Accurate. While observational studies showed J-shaped relationships between alcohol and CVD, these suffer from confounding. A landmark 2018 Lancet study concluded the safest level of alcohol consumption for cancer is zero. IARC classifies alcohol as a Group 1 carcinogen.",
+    "category": "nutrition",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_100",
+    "text": "The FDA has approved a drug that permanently cures all forms of type 1 diabetes in children. Pharmaceutical companies are blocking its distribution to protect insulin profits, which generate $25 billion per year.",
+    "source": "Facebook · @DiabetesTruth",
+    "isReal": false,
+    "explanation": "False. No FDA-approved permanent cure for type 1 diabetes exists as of 2024. Teplizumab (approved 2022) can delay onset in high-risk individuals, and research into islet cell therapy is ongoing, but no universal cure has been suppressed. Type 1 diabetes management remains an active research area.",
+    "category": "disease",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_101",
+    "text": "Zika virus infection during pregnancy can cause microcephaly (abnormally small head) and other severe brain defects in the developing fetus. The 2015–2016 Zika outbreak in the Americas was linked to a surge in microcephaly cases.",
+    "source": "CDC · @InfectiousDiseaseNews",
+    "isReal": true,
+    "explanation": "Accurate. The CDC and WHO confirmed the causal link between prenatal Zika infection and congenital microcephaly in 2016. The outbreak in Brazil led to thousands of affected births. Zika is transmitted by Aedes mosquitoes and through sexual contact.",
+    "category": "disease",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_102",
+    "text": "Ivermectin was proven to be 100% effective against COVID-19 in a landmark Indian study. Governments banned it because it would have ended the pandemic and made vaccines unnecessary — billions of lives were lost due to this cover-up.",
+    "source": "Rumble · @IvermectinTruth",
+    "isReal": false,
+    "explanation": "False. Multiple large randomized controlled trials, including the TOGETHER and ACTIV-6 trials, found ivermectin did not reduce hospitalization or speed recovery in COVID-19. The 'landmark Indian study' cited was retracted for data manipulation. Ivermectin remains approved for parasitic infections.",
+    "category": "disease",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_103",
+    "text": "Dengue fever infects an estimated 390 million people worldwide each year, making it the world's fastest-spreading mosquito-borne viral disease. A dengue vaccine (Dengvaxia) exists but is only recommended for people with prior dengue infection.",
+    "source": "WHO Dengue Report · @WHOinfo",
+    "isReal": true,
+    "explanation": "Accurate. WHO estimates 390 million dengue infections annually, with 96 million symptomatic cases. Dengvaxia was the first licensed dengue vaccine; however, it can increase severe dengue risk in those never previously infected, limiting its use to seropositive individuals.",
+    "category": "disease",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_104",
+    "text": "Sunlight causes vitamin D production in the skin. In northern latitudes during winter months, UVB radiation is insufficient for vitamin D synthesis, making supplementation or dietary sources especially important.",
+    "source": "Vitamin D Society · @NutritionResearch",
+    "isReal": true,
+    "explanation": "Accurate. UVB rays trigger vitamin D synthesis in skin, but UVB intensity depends on latitude, season, and time of day. In locations above ~35°N, UVB is effectively absent from November to March, and most people in these regions cannot synthesize adequate vitamin D from sunlight alone in winter.",
+    "category": "nutrition",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_105",
+    "text": "Collagen supplements are absorbed intact through the gut and directly deposited into your skin, reversing aging and eliminating wrinkles within 2 weeks of starting supplementation.",
+    "source": "Instagram · @AntiAgingSecrets",
+    "isReal": false,
+    "explanation": "False. Dietary collagen is digested into amino acids and peptides by stomach acids — it is not absorbed 'intact.' The body uses these amino acids for multiple purposes, not specifically for skin. While some small peptide studies show modest skin hydration effects, the marketing claims far exceed the evidence.",
+    "category": "nutrition",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_106",
+    "text": "The number of overweight and obese people worldwide now exceeds the number of underweight people. The WHO calls obesity a global epidemic, with rates nearly tripling since 1975.",
+    "source": "WHO Obesity Report · @GlobalHealthWatch",
+    "isReal": true,
+    "explanation": "Accurate. In 2016, the WHO reported 1.9 billion overweight adults, of whom 650 million were obese — versus 462 million underweight. Global obesity rates have tripled since 1975, driven by increased availability of energy-dense foods and reduced physical activity.",
+    "category": "WHO",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_107",
+    "text": "Intermittent fasting is dangerous for women and will cause permanent hormonal disruption, adrenal fatigue, and infertility after just a few weeks of practice. Many reproductive endocrinologists are now warning against it.",
+    "source": "Blog · @WomensHormoneHealth",
+    "isReal": false,
+    "explanation": "False. While some women do report menstrual irregularities with prolonged severe caloric restriction, moderate intermittent fasting protocols are generally safe for most women. Claims of 'permanent' hormonal disruption from short-term fasting are not supported by the evidence base.",
+    "category": "nutrition",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_108",
+    "text": "The DASH diet (Dietary Approaches to Stop Hypertension), which emphasizes fruits, vegetables, whole grains, and low-sodium foods, has been clinically shown to reduce blood pressure as effectively as some medications.",
+    "source": "NEJM · @CardioNutrition",
+    "isReal": true,
+    "explanation": "Accurate. Multiple randomized trials confirm the DASH diet reduces systolic blood pressure by 8–14 mmHg in hypertensive patients — comparable to a single antihypertensive medication. The National Heart, Lung, and Blood Institute endorses DASH for hypertension management.",
+    "category": "nutrition",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_109",
+    "text": "A parasite called Toxoplasma gondii infects approximately one-third of the world's population. In immunocompetent people it usually causes no symptoms, but can be dangerous in pregnant women and immunocompromised individuals.",
+    "source": "CDC Parasites · @InfectiousDiseaseNews",
+    "isReal": true,
+    "explanation": "Accurate. CDC estimates up to 40 million Americans carry Toxoplasma gondii, typically with no symptoms. In pregnancy, primary infection can cause congenital toxoplasmosis including eye damage and brain damage. Immunocompromised patients can develop severe encephalitis.",
+    "category": "disease",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_110",
+    "text": "The COVID-19 pandemic was caused by 5G towers activating dormant parasites that pharmaceutical companies had placed in our water supply since 2010. Bill Gates funded the entire operation as part of Agenda 21.",
+    "source": "Telegram · @PandemicTruthNetwork",
+    "isReal": false,
+    "explanation": "False. SARS-CoV-2 is a coronavirus with clearly sequenced RNA identified by independent laboratories worldwide. 5G cannot activate organisms, no parasites were found in water supplies, and Agenda 21 is a UN sustainable development document unrelated to any pandemic.",
+    "category": "disease",
+    "difficulty": "easy"
+  },
+  {
+    "id": "card_111",
+    "text": "Childhood obesity has more than tripled in the United States since the 1970s. Children with obesity have higher risk of cardiovascular disease, type 2 diabetes, sleep apnea, and mental health problems.",
+    "source": "CDC Childhood Obesity Data · @PublicHealthFacts",
+    "isReal": true,
+    "explanation": "Accurate. CDC data shows childhood obesity rates increased from 5% in 1963–1965 to 19.7% in 2017–2020. Obese children are at significantly elevated risk of multiple chronic diseases in childhood and adulthood, including conditions previously seen only in adults.",
+    "category": "disease",
+    "difficulty": "easy"
+  },
+  {
+    "id": "card_112",
+    "text": "Omega-3 fatty acids from oily fish or supplements can completely reverse heart disease and unclog arteries. Doctors who prescribe statins are suppressing this $5 cure because it would put cardiologists out of business.",
+    "source": "Facebook · @HeartNaturalCure",
+    "isReal": false,
+    "explanation": "False. While omega-3s have modest cardiovascular benefits — particularly high-dose prescription EPA reducing cardiovascular events — they cannot 'reverse' heart disease or 'unclog' arteries. The claim about doctor suppression is false; statins and omega-3s are both recommended when appropriate.",
+    "category": "nutrition",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_113",
+    "text": "The measles virus can cause 'immune amnesia' — wiping out 20–70% of previously acquired immune memory — making children vulnerable to other infections they were previously protected against.",
+    "source": "Science · @ImmunologyResearch",
+    "isReal": true,
+    "explanation": "Accurate. A landmark 2019 Science study showed measles virus destroys 11–73% of the body's antibody repertoire, effectively resetting immune memory. This 'immune amnesia' explains why measles historically preceded spikes in deaths from other infectious diseases.",
+    "category": "vaccines",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_114",
+    "text": "Washing your hands with antibacterial soap is worse than regular soap because it kills good bacteria and creates superbugs. You should never use any soap — just rinse with warm water for 30 seconds.",
+    "source": "Blog · @NaturalHygieneGuide",
+    "isReal": false,
+    "explanation": "False. While antibacterial soaps with triclosan have some concerns, regular soap and water is highly effective and recommended. Plain soap works by physically removing pathogens from skin. Rinsing with water alone is significantly less effective at pathogen removal than soap and water.",
+    "category": "disease",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_115",
+    "text": "Yellow fever is a viral hemorrhagic disease transmitted by mosquitoes. It can be prevented by a single dose of vaccine that provides lifelong protection. The vaccine is required for entry into some countries.",
+    "source": "WHO Travel Medicine · @TravelHealthInfo",
+    "isReal": true,
+    "explanation": "Accurate. Yellow fever vaccination is one of the most effective vaccines available — a single dose provides lifelong immunity in 99% of recipients. WHO and many countries in sub-Saharan Africa and South America require proof of vaccination for entry.",
+    "category": "vaccines",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_116",
+    "text": "Aspirin therapy for primary prevention of heart attack was recommended for decades but the evidence has shifted. Current guidelines no longer recommend daily aspirin for primary prevention in most adults due to bleeding risks.",
+    "source": "USPSTF · @PreventiveMedicine",
+    "isReal": true,
+    "explanation": "Accurate. The 2022 USPSTF guidance changed significantly — daily low-dose aspirin is no longer recommended for primary prevention in most adults over 60. For adults 40–59 with 10%+ cardiovascular risk, the decision is individualized. Bleeding risk often outweighs benefit in primary prevention.",
+    "category": "disease",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_117",
+    "text": "Statin medications cause severe muscle damage in 30% of all patients. They also accelerate diabetes, destroy your memory, and cause permanent liver failure. Natural alternatives like red yeast rice are equally effective and totally safe.",
+    "source": "Twitter · @StatinsDanger",
+    "isReal": false,
+    "explanation": "False. Severe myopathy (rhabdomyolysis) occurs in less than 0.1% of statin users. Mild muscle aches affect 5–10%. Statins modestly increase diabetes risk (~10% relative risk) and have genuine memory concerns worth discussing with doctors, but liver failure is exceedingly rare. Red yeast rice contains lovastatin and has the same effects and risks.",
+    "category": "disease",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_118",
+    "text": "Obesity increases the risk of at least 13 types of cancer, including endometrial, esophageal, liver, kidney, pancreatic, and postmenopausal breast cancers. It is the second leading preventable cause of cancer after tobacco.",
+    "source": "CDC Cancer Data · @OncologyJournal",
+    "isReal": true,
+    "explanation": "Accurate. The CDC identifies 13 cancers associated with excess body weight. Adipose tissue produces hormones and inflammatory signals that promote cancer development. Obesity is responsible for approximately 40% of all cancers diagnosed in the U.S.",
+    "category": "disease",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_119",
+    "text": "Most people only use 10% of their brain. This is why techniques like neurofeedback and special supplements can unlock the dormant 90% and dramatically boost intelligence, memory, and even psychic abilities.",
+    "source": "Instagram · @BrainHackingPro",
+    "isReal": false,
+    "explanation": "False. Brain imaging studies show virtually all brain regions are active, with different areas specialized for different functions. The '10% myth' has no scientific basis. No supplement has been proven to 'unlock' dormant brain capacity. This myth has been debunked repeatedly by neuroscientists.",
+    "category": "disease",
+    "difficulty": "easy"
+  },
+  {
+    "id": "card_120",
+    "text": "Chronic stress triggers prolonged elevation of cortisol, which can impair immune function, increase cardiovascular disease risk, disrupt sleep, and contribute to obesity and metabolic dysfunction.",
+    "source": "APA Stress Report · @PsychologyToday",
+    "isReal": true,
+    "explanation": "Accurate. Chronic HPA-axis activation with sustained cortisol elevation is well-documented to suppress cellular immunity, promote atherosclerosis, disrupt circadian rhythm, and stimulate appetite — particularly for high-fat, high-sugar foods. These effects are consistent across numerous human studies.",
+    "category": "disease",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_121",
+    "text": "Dehydration of just 2% of body weight reduces cognitive performance, including attention, working memory, and psychomotor speed. Staying well-hydrated supports optimal brain function throughout the day.",
+    "source": "Journal of Nutrition · @HydrationResearch",
+    "isReal": true,
+    "explanation": "Accurate. Studies consistently show mild dehydration (1–2% body weight) impairs attention, working memory, and psychomotor tasks. The European Food Safety Authority recommends 2L/day for women and 2.5L/day for men from all sources including food.",
+    "category": "nutrition",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_122",
+    "text": "You must drink exactly 8 glasses of water per day — no more, no less. Drinking less causes immediate kidney damage, while drinking more causes dangerous overhydration that hospitals routinely treat in healthy adults.",
+    "source": "Blog · @HydrationRules",
+    "isReal": false,
+    "explanation": "False. The '8 glasses a day' rule has no scientific basis. Water needs vary by body size, activity, climate, and diet. Most healthy people regulate hydration through thirst. Overhydration (hyponatremia) is rare except in endurance athletes who drink excessively.",
+    "category": "nutrition",
+    "difficulty": "easy"
+  },
+  {
+    "id": "card_123",
+    "text": "Regular moderate exercise has been shown to reduce the risk of depression and anxiety. A 2023 meta-analysis found exercise comparable to antidepressants for mild-to-moderate depression.",
+    "source": "BMJ · @PsychiatryResearch",
+    "isReal": true,
+    "explanation": "Accurate. A 2023 BMJ meta-analysis of 218 trials with 14,170 participants found exercise significantly reduced depression and anxiety symptoms. Effect sizes were comparable to antidepressants and CBT. The authors recommended exercise as a core treatment option for depression.",
+    "category": "disease",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_124",
+    "text": "Blood type diets scientifically proven: people with type O blood must eat meat to survive, while type A must be vegetarian. Eating the wrong foods for your blood type triggers an immediate immune reaction that causes all chronic disease.",
+    "source": "Instagram · @BloodTypeDietCoach",
+    "isReal": false,
+    "explanation": "False. The blood type diet was proposed in a 1996 book. A 2013 systematic review found no evidence supporting blood type-specific dietary recommendations. Blood type is determined by antigens on red blood cells and has no known effect on digestion or dietary needs.",
+    "category": "nutrition",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_125",
+    "text": "The human papillomavirus (HPV) vaccine Gardasil protects against 9 HPV types responsible for approximately 90% of HPV-related cancers and 90% of genital warts. It is approved for individuals aged 9–45.",
+    "source": "FDA · @VaccineUpdates",
+    "isReal": true,
+    "explanation": "Accurate. Gardasil 9 targets HPV types 6, 11, 16, 18, 31, 33, 45, 52, and 58 — covering ~90% of HPV-attributable cancers. The FDA approved it for ages 9–45. The vaccine is most effective when given before first sexual activity.",
+    "category": "vaccines",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_126",
+    "text": "Drinking hot beverages above 65°C (149°F) has been classified as a probable carcinogen (Group 2A) by the IARC based on evidence that thermal injury to the esophageal lining may promote cancer.",
+    "source": "IARC · @CancerResearchNews",
+    "isReal": true,
+    "explanation": "Accurate. In 2016, IARC classified 'very hot beverages above 65°C' as Group 2A (probably carcinogenic to humans), based on studies showing high rates of esophageal cancer in populations who drink very hot tea. Temperature, not the specific beverage, is the risk factor.",
+    "category": "nutrition",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_127",
+    "text": "Autism is caused by childhood vaccines, and this link was definitively proven in Andrew Wakefield's 1998 Lancet paper. The medical establishment retracted the paper only after Big Pharma pressured the journal.",
+    "source": "Facebook · @VaccineAutismLink",
+    "isReal": false,
+    "explanation": "False. Wakefield's paper was retracted in 2010 after the British Medical Journal found it contained falsified data and Wakefield had undisclosed conflicts of interest. He lost his medical license. Dozens of large studies including one of 650,000 Danish children found no link between vaccines and autism.",
+    "category": "vaccines",
+    "difficulty": "easy"
+  },
+  {
+    "id": "card_128",
+    "text": "Autism spectrum disorder has a prevalence of approximately 1 in 36 U.S. children according to CDC estimates, a significant increase from 1 in 150 in 2000 — largely explained by expanded diagnostic criteria and improved awareness.",
+    "source": "CDC ADDM · @ChildDevelopment",
+    "isReal": true,
+    "explanation": "Accurate. CDC's Autism and Developmental Disabilities Monitoring Network reported 1 in 36 prevalence in 2023, up from 1 in 150 in 2000. Most researchers attribute the increase to broader diagnostic criteria (DSM-5), increased screening, and greater awareness — not to environmental factors.",
+    "category": "disease",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_129",
+    "text": "Fluoride in drinking water causes cancer, lowers IQ, and is a form of mass medication without consent. Harvard researchers confirmed fluoride is more toxic to children's brains than lead.",
+    "source": "Twitter · @FluorideFree",
+    "isReal": false,
+    "explanation": "False. Community water fluoridation at recommended levels (0.7 ppm in the U.S.) has been studied for 80+ years with no evidence of cancer or IQ harm at these levels. The Harvard paper cited examined Chinese villages with naturally occurring fluoride at 2–10 ppm — far above drinking water standards.",
+    "category": "disease",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_130",
+    "text": "Community water fluoridation at the recommended level of 0.7 mg/L has reduced dental cavities in both children and adults by approximately 25%, according to recent Cochrane systematic reviews.",
+    "source": "Cochrane · @DentalPublicHealth",
+    "isReal": true,
+    "explanation": "Accurate. Though the 2015 Cochrane review noted limitations in the evidence base (much original research predates modern dental care), it supported a meaningful reduction in dental caries from community water fluoridation. Major dental and public health organizations worldwide continue to endorse it.",
+    "category": "disease",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_131",
+    "text": "Washing raw chicken before cooking it spreads Campylobacter and Salmonella bacteria around your kitchen sink via splash. The FDA and UK Food Standards Agency advise against washing raw poultry.",
+    "source": "FDA Food Safety · @FoodSafetyWatch",
+    "isReal": true,
+    "explanation": "Accurate. Studies show washing raw chicken can splash bacteria up to 3 feet across the sink and countertops. Proper cooking to 165°F (74°C) internal temperature kills all pathogens — washing adds no food safety benefit and increases contamination risk.",
+    "category": "nutrition",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_132",
+    "text": "The 5-second rule is real — if food falls on the floor and is picked up within 5 seconds, it remains sterile because bacteria need time to attach to the food surface. Scientists have confirmed this is safe.",
+    "source": "Blog · @FoodScienceFun",
+    "isReal": false,
+    "explanation": "False. A 2016 Rutgers study showed bacteria transfer instantly upon contact — even less than 1 second. Transfer rates depend on moisture and surface type, but there is no safe floor exposure window. The 5-second rule is a cultural myth, not a scientific finding.",
+    "category": "nutrition",
+    "difficulty": "easy"
+  },
+  {
+    "id": "card_133",
+    "text": "Approximately 820 million people globally suffer from chronic hunger, while 2 billion experience micronutrient deficiencies such as iron, zinc, and vitamin A deficiency — conditions the WHO calls 'hidden hunger.'",
+    "source": "FAO State of Food Security · @WHOinfo",
+    "isReal": true,
+    "explanation": "Accurate. FAO data shows 820 million chronically hungry and the WHO documents widespread micronutrient deficiencies in billions more who may consume adequate calories but lack essential nutrients. Iron deficiency is the most common nutritional disorder globally.",
+    "category": "WHO",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_134",
+    "text": "Eating celery requires more calories to digest than celery itself contains, making it a 'negative calorie food' that speeds fat burning. Eating only celery is an effective rapid weight loss strategy recommended by nutritionists.",
+    "source": "TikTok · @DietTips2024",
+    "isReal": false,
+    "explanation": "False. No food is 'negative calorie.' Celery is very low-calorie (~6 kcal/stalk), but digestion consumes only 5–10% of food's caloric value. A celery-only diet would be severely malnourishing. Thermic effect of food does not create a net negative calorie situation.",
+    "category": "nutrition",
+    "difficulty": "easy"
+  },
+  {
+    "id": "card_135",
+    "text": "The ketogenic diet, originally developed for epilepsy treatment, involves very low carbohydrate intake (<50g/day) causing ketosis. It has strong evidence for reducing seizure frequency in drug-resistant epilepsy.",
+    "source": "Epilepsy Foundation · @NeurologyClinical",
+    "isReal": true,
+    "explanation": "Accurate. The ketogenic diet was developed in the 1920s as a treatment for epilepsy. Multiple randomized trials show it reduces seizures by 50%+ in approximately half of children with drug-resistant epilepsy. It remains a first-line adjunctive therapy for specific epilepsy syndromes.",
+    "category": "nutrition",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_136",
+    "text": "Sunscreen with SPF 50 blocks 99% of UV rays — it's not 50% more protection than SPF 25, which blocks 96%. The difference in protection between SPF 30 and SPF 100 is very small in real-world use.",
+    "source": "AAD · @DermatologyFacts",
+    "isReal": true,
+    "explanation": "Accurate. SPF 15 blocks 93%, SPF 30 blocks 97%, SPF 50 blocks 98%, and SPF 100 blocks 99% of UVB rays. The American Academy of Dermatology notes that no sunscreen blocks 100% of UV. Reapplication every 2 hours matters more than choosing SPF 50 vs 100.",
+    "category": "disease",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_137",
+    "text": "Wearing a bra causes breast cancer by restricting lymphatic flow. Women who wear bras for more than 12 hours per day have a 100x higher breast cancer risk. Doctors suppress this because bra companies donate to medical schools.",
+    "source": "Facebook · @BraFreeTruth",
+    "isReal": false,
+    "explanation": "False. This claim originated from a 1995 self-published book with no scientific methodology. A 2014 Swedish study and multiple epidemiological studies found no association between bra wearing and breast cancer risk. Lymphatic flow is not impaired by wearing a bra.",
+    "category": "disease",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_138",
+    "text": "Sudden infant death syndrome (SIDS) risk is significantly reduced by placing infants on their back to sleep, avoiding soft bedding, and room-sharing without bed-sharing. Back sleeping reduces SIDS risk by about 50%.",
+    "source": "AAP Safe Sleep Guidelines · @PediatricHealth",
+    "isReal": true,
+    "explanation": "Accurate. The 'Back to Sleep' campaign, launched in 1994, reduced SIDS rates by more than 50%. The American Academy of Pediatrics recommends back sleeping, firm sleep surfaces, no loose bedding, and room sharing without bed sharing for all infants under 1 year.",
+    "category": "disease",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_139",
+    "text": "Hydrogen peroxide is an effective alternative to vaccines — gargling with 3% hydrogen peroxide daily creates immunity against all respiratory viruses and bacteria. Many doctors have switched to this protocol secretly.",
+    "source": "YouTube · @HydrogenPeroxideHealth",
+    "isReal": false,
+    "explanation": "False. Hydrogen peroxide used orally is an irritant and can damage mucous membranes. It does not confer systemic immunity. No medical authority endorses gargling hydrogen peroxide as a substitute for vaccination or any other infectious disease prevention strategy.",
+    "category": "vaccines",
+    "difficulty": "easy"
+  },
+  {
+    "id": "card_140",
+    "text": "Alcohol is classified as a Group 1 carcinogen by the IARC and is linked to at least 7 types of cancer, including cancers of the mouth, throat, esophagus, liver, colon, rectum, and breast.",
+    "source": "IARC · @CancerResearchNews",
+    "isReal": true,
+    "explanation": "Accurate. IARC classified alcoholic beverages as Group 1 carcinogens in 1988. Alcohol is causally linked to 7 cancer sites. In 2021, the American Cancer Society updated its guidance to state that the best option for cancer risk reduction is to abstain from alcohol completely.",
+    "category": "nutrition",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_141",
+    "text": "Cell phones cause brain tumors. A secret CDC report from 2011 confirmed that using a mobile phone for more than 10 minutes a day triples your glioma risk. This report was buried under industry pressure.",
+    "source": "Telegram · @CellPhoneDanger",
+    "isReal": false,
+    "explanation": "False. No such CDC report exists. The largest prospective study (INTERPHONE, 13 countries) found no consistent association between mobile phone use and glioma or meningioma. WHO classifies radiofrequency fields as Group 2B (possibly carcinogenic) — a precautionary classification, not confirmation of harm.",
+    "category": "disease",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_142",
+    "text": "The rate of maternal mortality in the United States is higher than in most other high-income countries. Black women in the U.S. die from pregnancy-related causes at approximately 2–3 times the rate of white women.",
+    "source": "CDC Maternal Health · @PublicHealthFacts",
+    "isReal": true,
+    "explanation": "Accurate. CDC data consistently shows the U.S. has one of the highest maternal mortality rates among comparable high-income nations. In 2021, the overall rate was 32.9 per 100,000. Black women had a rate of 69.9 — 2.6 times the rate for white women (26.6).",
+    "category": "disease",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_143",
+    "text": "Activated charcoal supplements detoxify the liver and blood from years of accumulated poisons. Taken daily, they absorb all toxins before they can enter your bloodstream and prevent all forms of chronic disease.",
+    "source": "Instagram · @ActivatedCharcoalLife",
+    "isReal": false,
+    "explanation": "False. Activated charcoal is used in emergency medicine for acute poisoning. However, it also adsorbs medications and nutrients indiscriminately. Daily use can impair absorption of vitamins and oral contraceptives. There are no 'accumulated toxins' in a healthy liver that require charcoal removal.",
+    "category": "nutrition",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_144",
+    "text": "Condoms, when used correctly and consistently, reduce the risk of HIV transmission by approximately 85%, and are highly effective against other STIs such as gonorrhea and chlamydia.",
+    "source": "WHO STI Guidelines · @WHOinfo",
+    "isReal": true,
+    "explanation": "Accurate. Consistent and correct condom use provides approximately 85% protection against HIV per-sex-act estimates in prospective studies. Effectiveness is higher with perfect use. Condoms are the most accessible barrier method for reducing STI transmission broadly.",
+    "category": "disease",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_145",
+    "text": "You cannot get an STI from toilet seats, swimming pools, or sharing cutlery. STIs like HIV, chlamydia, and gonorrhea require direct mucous membrane contact or blood exchange to transmit.",
+    "source": "Planned Parenthood · @SexualHealthFacts",
+    "isReal": true,
+    "explanation": "Accurate. STI transmission requires direct contact with infected secretions, blood, or mucous membranes. Pathogens that cause chlamydia, gonorrhea, and HIV cannot survive on cold, dry surfaces like toilet seats long enough to cause infection.",
+    "category": "disease",
+    "difficulty": "easy"
+  },
+  {
+    "id": "card_146",
+    "text": "Microwave ovens destroy all nutrients in food and produce radiation that causes cancer. Microwaved water kills plants, which proves the radiation transforms water into a toxic compound.",
+    "source": "Facebook · @MicrowaveDanger",
+    "isReal": false,
+    "explanation": "False. Microwave cooking preserves nutrients better than many conventional cooking methods because it uses shorter cooking times. The 'microwaved water kills plants' experiment has been debunked repeatedly — plant death is due to water temperature, not any transformation of the water.",
+    "category": "nutrition",
+    "difficulty": "easy"
+  },
+  {
+    "id": "card_147",
+    "text": "In clinical trials, the Pfizer-BioNTech COVID-19 vaccine demonstrated 100% efficacy against severe disease and hospitalization among trial participants during the study period.",
+    "source": "NEJM · @VaccineTrialData",
+    "isReal": true,
+    "explanation": "Accurate. In the original Phase 3 trial period, there were zero severe COVID-19 cases in the vaccinated group vs. nine in the placebo group — representing 100% efficacy against severe disease in that trial cohort, though confidence intervals were wide due to small numbers of severe cases.",
+    "category": "vaccines",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_148",
+    "text": "Standing desks eliminate all health risks associated with sedentary work. Switching to a standing desk for 8 hours a day is just as good for your health as regular exercise and removes all need for physical activity.",
+    "source": "Instagram · @StandingDeskPro",
+    "isReal": false,
+    "explanation": "False. While prolonged sitting is associated with health risks, standing for 8 hours continuously brings its own problems — varicose veins, foot/leg pain, and fatigue. Evidence suggests alternating sitting and standing, combined with regular exercise, is optimal. Standing does not substitute for aerobic activity.",
+    "category": "disease",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_149",
+    "text": "Tuberculosis (TB) remains one of the world's leading infectious disease killers, causing approximately 1.6 million deaths annually. TB is caused by Mycobacterium tuberculosis and is curable with a 6-month course of antibiotics.",
+    "source": "WHO TB Report · @GlobalHealthWatch",
+    "isReal": true,
+    "explanation": "Accurate. WHO Global TB Report 2022 documented 1.6 million deaths. TB is the second leading infectious disease killer after COVID-19. Drug-sensitive TB is cured with standard 6-month four-drug regimens; drug-resistant TB requires longer, more complex treatment.",
+    "category": "disease",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_150",
+    "text": "The human body is alkaline, and all disease is caused by acidity. If you measure your urine pH and it's below 7, you are in a disease state. Eating alkaline foods will cure any illness by making your blood alkaline.",
+    "source": "YouTube · @AlkalizYourBody",
+    "isReal": false,
+    "explanation": "False. Blood pH is tightly regulated at 7.35–7.45 by the kidneys and lungs. Urine pH reflects waste excretion, not blood pH. Dietary changes cannot significantly alter blood pH — if blood pH dropped below 7.35, it would be a medical emergency (acidosis). The 'alkaline diet' claims are not supported by physiology.",
+    "category": "nutrition",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_151",
+    "text": "The tetanus vaccine requires a booster every 10 years in adults. Tetanus is caused by Clostridium tetani bacteria found in soil, and infection can cause severe muscle spasms and death — there is no treatment other than supportive care.",
+    "source": "CDC Vaccines · @ImmunizationInfo",
+    "isReal": true,
+    "explanation": "Accurate. Immunity from tetanus toxoid vaccine wanes over time, requiring a Td/Tdap booster every 10 years. Tetanus has a case fatality rate of 10–20% even with treatment. There is no antitoxin that works once symptoms begin — only supportive care.",
+    "category": "vaccines",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_152",
+    "text": "Raw milk is significantly safer and more nutritious than pasteurized milk. Pasteurization destroys beneficial enzymes and probiotics, and raw milk drinkers never get food poisoning because the good bacteria protect against pathogens.",
+    "source": "Facebook · @RawMilkRevolution",
+    "isReal": false,
+    "explanation": "False. Raw milk can harbor Campylobacter, Salmonella, E. coli O157:H7, and Listeria. The CDC reports raw milk is 840 times more likely to cause illness than pasteurized milk per gallon. Pasteurization destroys harmful pathogens without significantly affecting nutritional value.",
+    "category": "nutrition",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_153",
+    "text": "The BCG (Bacillus Calmette-Guérin) vaccine for tuberculosis is one of the most widely administered vaccines globally, given to about 100 million newborns annually. It is highly effective at preventing severe childhood TB.",
+    "source": "WHO TB Vaccine · @GlobalHealthWatch",
+    "isReal": true,
+    "explanation": "Accurate. BCG is part of WHO's Expanded Programme on Immunization and is given at birth in most high-TB-burden countries. It provides 80% protection against severe childhood TB (miliary TB and meningitis) but variable protection against adult pulmonary TB.",
+    "category": "vaccines",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_154",
+    "text": "Exercise during cancer treatment is harmful and should be avoided completely. Patients should rest as much as possible during chemotherapy to conserve energy and avoid any activity that could spread cancer cells through the body.",
+    "source": "Blog · @CancerNaturalCare",
+    "isReal": false,
+    "explanation": "False. Exercise during and after cancer treatment is now actively recommended by major oncology organizations. Evidence shows exercise reduces fatigue, depression, and improves quality of life during chemotherapy. It does not spread cancer cells and may improve treatment outcomes.",
+    "category": "disease",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_155",
+    "text": "Secondhand smoke exposure is a Group 1 carcinogen. Non-smokers living with a smoker have a 20–30% increased risk of developing lung cancer compared to non-smokers in smoke-free households.",
+    "source": "IARC · @TobaccoControl",
+    "isReal": true,
+    "explanation": "Accurate. The IARC and U.S. Surgeon General have conclusively determined secondhand smoke causes lung cancer in non-smokers. The 20–30% increased risk estimate comes from large meta-analyses. Secondhand smoke also increases risk of heart disease and childhood respiratory illness.",
+    "category": "disease",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_156",
+    "text": "Bone broth has been medically proven to repair leaky gut syndrome, reverse autoimmune diseases, and rebuild cartilage in arthritic joints. It contains special compounds that target inflammation at the cellular level.",
+    "source": "Instagram · @BoneBrothHealing",
+    "isReal": false,
+    "explanation": "False. 'Leaky gut syndrome' as popularly described is not a recognized medical diagnosis. While bone broth contains gelatin, collagen peptides, and minerals, no clinical trials demonstrate it repairs intestinal permeability, reverses autoimmune disease, or rebuilds joint cartilage better than a balanced diet.",
+    "category": "nutrition",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_157",
+    "text": "Chronic kidney disease (CKD) affects approximately 10% of the global adult population — over 800 million people. The most common causes are diabetes and hypertension, both of which can be managed to slow CKD progression.",
+    "source": "ISN Global Kidney Health Atlas · @KidneyHealth",
+    "isReal": true,
+    "explanation": "Accurate. The International Society of Nephrology estimates CKD affects ~843 million people globally. Diabetic nephropathy and hypertensive kidney disease are the leading causes. Early detection through blood and urine testing and management of underlying conditions can significantly slow progression.",
+    "category": "disease",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_158",
+    "text": "Consuming genetically modified (GMO) food will alter your own DNA, incorporating plant genes into your genome over time. This is why people who eat GMO foods are getting sicker and developing new autoimmune diseases.",
+    "source": "Facebook · @GMOTruth",
+    "isReal": false,
+    "explanation": "False. All food contains DNA that is digested into nucleotides. These cannot be incorporated into human DNA. Over 3 trillion GMO servings have been consumed globally with no evidence of unique health effects. Every major scientific body, including WHO and the National Academy of Sciences, has affirmed GMO food safety.",
+    "category": "nutrition",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_159",
+    "text": "The Global Alliance for Vaccines and Immunization (Gavi) has helped immunize more than 981 million children in lower-income countries, preventing an estimated 17.3 million future deaths since its founding in 2000.",
+    "source": "Gavi Annual Report · @GlobalHealthWatch",
+    "isReal": true,
+    "explanation": "Accurate. Gavi's 2023 annual report documents these impact figures. The organization works with WHO, UNICEF, and the World Bank to support vaccination programs in the world's poorest countries, with pneumococcal, rotavirus, and Hib vaccines among its major contributions.",
+    "category": "WHO",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_160",
+    "text": "Acupuncture has been proven by neuroscience to be more effective than opioids for all types of chronic pain. Hospitals that use acupuncture instead of morphine achieve better pain control with zero side effects or addiction risk.",
+    "source": "Blog · @HolisticPainCure",
+    "isReal": false,
+    "explanation": "False. Acupuncture has modest evidence for some types of chronic pain (back, osteoarthritis, headache), but clinical trials show inconsistent results often similar to sham acupuncture. It is not established as more effective than opioids, and no major hospital protocol replaces opioids entirely with acupuncture.",
+    "category": "disease",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_161",
+    "text": "Wearing tight underwear significantly reduces male fertility by lowering sperm count and motility. Multiple studies suggest that men wearing briefs vs. boxers can have measurable differences in sperm parameters.",
+    "source": "Human Reproduction · @FertilityResearch",
+    "isReal": true,
+    "explanation": "Accurate. A 2018 Harvard study of 656 men found those who usually wore boxers had 25% higher sperm concentration and 17% higher total sperm count than men who wore tighter underwear. Testicular temperature elevation impairs sperm production. Effect size is modest and clinical impact on fertility varies individually.",
+    "category": "disease",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_162",
+    "text": "Sitting too close to the TV will permanently damage your eyesight. Children who sit within 2 feet of a television will need glasses by age 10 and doctors regularly treat children for TV-induced blindness.",
+    "source": "Facebook · @ParentingMythBusters",
+    "isReal": false,
+    "explanation": "False. Sitting close to a TV causes temporary eyestrain and headaches but does not permanently damage eyesight or cause structural eye damage. The American Academy of Ophthalmology and pediatric eye doctors consistently state there is no evidence TV distance damages eyes.",
+    "category": "disease",
+    "difficulty": "easy"
+  },
+  {
+    "id": "card_163",
+    "text": "The BCG vaccine has been shown to have 'off-target' (heterologous) benefits beyond TB prevention, including reduced overall infant mortality from unrelated infections — an effect attributed to training of innate immunity.",
+    "source": "Lancet · @VaccineScience",
+    "isReal": true,
+    "explanation": "Accurate. Multiple African studies showed BCG vaccination reduced overall infant mortality beyond what TB protection alone would explain. Researchers proposed 'trained immunity' — BCG reprograms innate immune cells to respond more robustly to diverse pathogens. This was also studied as a potential COVID-19 mortality modifier.",
+    "category": "vaccines",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_164",
+    "text": "Doctors have discovered that every autoimmune disease is caused by dairy consumption. Eliminating all dairy from your diet for 90 days will completely reverse lupus, multiple sclerosis, Crohn's disease, and rheumatoid arthritis.",
+    "source": "YouTube · @DairyFreeHealing",
+    "isReal": false,
+    "explanation": "False. Autoimmune diseases have complex genetic and environmental causes. While some dietary modifications may help manage symptoms in specific individuals, no diet has been shown to 'completely reverse' lupus, MS, Crohn's disease, or RA. These claims can lead patients to abandon evidence-based treatment.",
+    "category": "disease",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_165",
+    "text": "Multiple sclerosis (MS) is more common in countries farther from the equator, and vitamin D deficiency is considered a possible environmental risk factor. High-latitude populations have significantly higher MS prevalence.",
+    "source": "MS Society · @NeurologyResearch",
+    "isReal": true,
+    "explanation": "Accurate. The 'latitude gradient' of MS is well-documented — prevalence is higher in northern Europe, Canada, and southern Australia than near the equator. Lower sun exposure and vitamin D levels are among the most studied hypotheses, though the relationship is complex and multifactorial.",
+    "category": "disease",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_166",
+    "text": "Antiperspirants containing aluminum cause Alzheimer's disease and breast cancer. Scientific studies from the 1990s conclusively proved this, which is why Europe has banned aluminum in all personal care products.",
+    "source": "Twitter · @ToxicProductsExposed",
+    "isReal": false,
+    "explanation": "False. The aluminum-Alzheimer's link has been extensively studied and not confirmed. The Alzheimer's Society and Alzheimer's Association state this has been thoroughly investigated without evidence of causation. Europe has not banned aluminum in personal care products. The breast cancer claim also lacks supporting evidence.",
+    "category": "disease",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_167",
+    "text": "Hepatitis C virus (HCV) can now be cured in more than 95% of infected people using direct-acting antiviral medications taken for just 8–12 weeks, with minimal side effects — a major advance over previous interferon-based treatments.",
+    "source": "NEJM · @HepatologyJournal",
+    "isReal": true,
+    "explanation": "Accurate. Direct-acting antivirals (DAAs) like sofosbuvir/velpatasvir and glecaprevir/pibrentasvir achieve sustained virologic response (functional cure) in >95% of HCV patients. This represents a revolution over interferon regimens that had <50% cure rates and severe side effects.",
+    "category": "disease",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_168",
+    "text": "The Wim Hof breathing method has been clinically proven to cure Lyme disease, fibromyalgia, HIV, and autoimmune conditions. Patients who practice this method no longer need any medications and become immune to all infections.",
+    "source": "Instagram · @WimHofFollower",
+    "isReal": false,
+    "explanation": "False. Wim Hof's methods have been studied and do show interesting immune modulation effects in healthy individuals. However, no clinical trials support using them to 'cure' Lyme disease, fibromyalgia, HIV, or autoimmune conditions, or to replace medications for these conditions.",
+    "category": "disease",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_169",
+    "text": "Childhood pneumonia is the single largest infectious cause of death in children worldwide, killing approximately 700,000 children under 5 each year, mostly in low- and middle-income countries.",
+    "source": "UNICEF · @ChildHealthGlobal",
+    "isReal": true,
+    "explanation": "Accurate. UNICEF and WHO data confirm pneumonia causes ~700,000 child deaths under 5 annually — about 14% of all under-5 deaths. Most are preventable through pneumococcal and Hib vaccination, zinc supplementation, breastfeeding promotion, and improved access to antibiotics.",
+    "category": "disease",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_170",
+    "text": "Reading in dim light permanently damages your eyes. Children who read under insufficient lighting will require much stronger glasses by adulthood because low light causes permanent microscopic tears in retinal cells.",
+    "source": "Facebook · @ParentalHealthTips",
+    "isReal": false,
+    "explanation": "False. Reading in dim light causes temporary eyestrain and fatigue, but no permanent damage. The American Academy of Ophthalmology states there is no evidence dim lighting causes structural eye damage. Myopia (nearsightedness) has complex genetic and environmental causes unrelated to lighting conditions.",
+    "category": "disease",
+    "difficulty": "easy"
+  },
+  {
+    "id": "card_171",
+    "text": "The COVID-19 pandemic has significantly worsened global mental health. Rates of anxiety and depression increased by 25% worldwide in the first year of the pandemic, according to a WHO analysis of 193 studies.",
+    "source": "WHO Mental Health Report 2022 · @WHOinfo",
+    "isReal": true,
+    "explanation": "Accurate. A 2022 WHO scientific brief, based on systematic review of 193 studies, found anxiety disorders increased 26% and depression 28% in the first year of COVID-19. The pandemic disrupted mental health services precisely when demand increased most.",
+    "category": "WHO",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_172",
+    "text": "Essential oils like oregano oil and tea tree oil, when taken internally in high doses, are more effective than antibiotics at treating bacterial infections with no risk of antibiotic resistance.",
+    "source": "Blog · @EssentialOilHealer",
+    "isReal": false,
+    "explanation": "False. While essential oils have demonstrated antimicrobial properties in lab settings, human clinical trials do not support using them as antibiotic replacements. High-dose internal use can cause toxicity, liver damage, and seizures. They do not replace antibiotics for serious infections.",
+    "category": "disease",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_173",
+    "text": "Blood pressure screening is recommended for all adults. Hypertension can usually be managed through lifestyle changes including salt reduction, the DASH diet, regular exercise, and — if needed — medication.",
+    "source": "AHA Guidelines · @HeartHealthNews",
+    "isReal": true,
+    "explanation": "Accurate. AHA/ACC guidelines recommend regular blood pressure screening for all adults starting at 18. Lifestyle modification is first-line for Stage 1 hypertension. Evidence-based interventions can lower systolic BP by 5–15 mmHg and significantly reduce cardiovascular events.",
+    "category": "disease",
+    "difficulty": "easy"
+  },
+  {
+    "id": "card_174",
+    "text": "Eating breakfast is the most important meal of the day and skipping it causes metabolic damage, increased obesity risk, and decreased academic performance in children. This is why all doctors recommend never skipping breakfast.",
+    "source": "Instagram · @BreakfastIsVital",
+    "isReal": false,
+    "explanation": "False. While some observational studies associate breakfast skipping with worse outcomes, randomized trials show no universal benefit from eating breakfast. Effects depend heavily on what is eaten and individual circumstances. Children's academic performance associations are confounded by socioeconomic factors.",
+    "category": "nutrition",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_175",
+    "text": "Eye tests can detect early signs of conditions beyond vision problems, including diabetes (diabetic retinopathy), hypertension, multiple sclerosis, and even some brain tumors, through examination of the retina and optic nerve.",
+    "source": "Royal College of Ophthalmologists · @EyeHealthFacts",
+    "isReal": true,
+    "explanation": "Accurate. Ophthalmoscopy can reveal retinal changes characteristic of diabetic retinopathy, hypertensive retinopathy, papilledema (suggesting raised intracranial pressure), and optic nerve changes associated with neurological conditions. Regular eye exams are therefore important beyond just assessing vision.",
+    "category": "disease",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_176",
+    "text": "Mercury in fish is so dangerous that pregnant women and children should never eat any fish. All seafood is contaminated at levels that cause immediate neurological damage and eating even one serving of fish per week is equivalent to mercury poisoning.",
+    "source": "Facebook · @FishDangerAlert",
+    "isReal": false,
+    "explanation": "False. While high-mercury fish (shark, swordfish, king mackerel) should be limited in pregnancy, the FDA recommends pregnant women eat 2–3 servings of low-mercury fish weekly. Omega-3 fatty acids in fish support fetal brain development. Blanket fish avoidance may be more harmful than low-mercury fish consumption.",
+    "category": "nutrition",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_177",
+    "text": "BRCA1 and BRCA2 gene mutations significantly increase lifetime risk of breast and ovarian cancer. Women with BRCA1 mutations have a 55–72% lifetime risk of breast cancer compared to ~12% in the general population.",
+    "source": "NEJM · @GeneticCounselingNews",
+    "isReal": true,
+    "explanation": "Accurate. Meta-analyses of BRCA1 and BRCA2 mutation carriers show 55–72% and 45–69% lifetime breast cancer risks respectively, compared to ~12% population risk. BRCA mutations also substantially elevate ovarian cancer risk. Genetic counseling and testing are recommended for those with family history.",
+    "category": "disease",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_178",
+    "text": "Spending time in nature and green spaces is associated with reduced stress, improved mood, better immune function, and lower rates of depression and anxiety. Studies show even 20 minutes in a park reduces cortisol levels.",
+    "source": "Frontiers in Psychology · @EnvironmentalHealth",
+    "isReal": true,
+    "explanation": "Accurate. Multiple studies confirm the mental and physical health benefits of nature exposure ('green prescriptions'). A 2019 study in Frontiers in Psychology found 20–30 minutes sitting or walking in nature produced the largest cortisol reduction. Japan's 'forest bathing' (Shinrin-yoku) is a clinically studied practice.",
+    "category": "disease",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_179",
+    "text": "Doctors have quietly confirmed that ear candles (inserting a hollow candle in the ear and lighting it) effectively remove ear wax deep from the ear canal. ENT specialists use them in hospitals across Europe.",
+    "source": "YouTube · @EarCandleHealth",
+    "isReal": false,
+    "explanation": "False. Multiple clinical studies found ear candles do not create negative pressure or remove earwax. They cause burns to the outer ear and face, eardrum perforations, and have caused fires. The FDA has warned against their use. ENT specialists do not use them.",
+    "category": "disease",
+    "difficulty": "easy"
+  },
+  {
+    "id": "card_180",
+    "text": "The flu vaccine is reformulated every year because influenza viruses mutate rapidly through antigenic drift and shift. WHO's Global Influenza Surveillance Network monitors strains year-round to select the best-matched vaccine components.",
+    "source": "WHO Influenza Report · @WHOinfo",
+    "isReal": true,
+    "explanation": "Accurate. WHO's FluNet system tracks influenza strains globally, and twice yearly the WHO convenes experts to recommend vaccine compositions for the upcoming season in each hemisphere. Antigenic drift (gradual) and shift (sudden, pandemic-causing) drive the need for annual updates.",
+    "category": "vaccines",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_181",
+    "text": "Herbal supplement companies are not required to prove their products work or are safe before selling them, because supplements are regulated differently than drugs in the United States under DSHEA (1994).",
+    "source": "FDA Consumer Update · @FoodSafetyWatch",
+    "isReal": true,
+    "explanation": "Accurate. The Dietary Supplement Health and Education Act (DSHEA) of 1994 means supplement manufacturers do not need FDA pre-approval or clinical trial evidence of efficacy or safety. They cannot claim to 'treat' diseases, but can make 'structure/function' claims.",
+    "category": "nutrition",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_182",
+    "text": "Ancient Sumerian clay tablets show that doctors 5,000 years ago used the same pharmaceutical drugs we have today. This proves natural remedies from the ancient world are scientifically superior to modern medicine.",
+    "source": "Blog · @AncientMedicineWisdom",
+    "isReal": false,
+    "explanation": "False. Ancient Sumerian medical texts do reference herbal treatments, but these bear no equivalence to modern pharmaceuticals, which are isolated, standardized compounds with clinical trial evidence. Some ancient plant remedies have led to drug discoveries (aspirin from willow bark), but ancient texts don't validate modern pharmaceutical equivalence.",
+    "category": "disease",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_183",
+    "text": "Naloxone (Narcan) can rapidly reverse opioid overdose and is available without prescription in all U.S. states. Bystanders who administer it cannot be held legally liable for its use in a Good Samaritan emergency.",
+    "source": "SAMHSA · @OpioidCrisisResponse",
+    "isReal": true,
+    "explanation": "Accurate. The FDA approved over-the-counter naloxone nasal spray (Narcan) in 2023. All 50 U.S. states have enacted at least some form of naloxone access law, and most provide Good Samaritan protections for bystanders who respond to overdoses. Naloxone has saved hundreds of thousands of lives.",
+    "category": "disease",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_184",
+    "text": "Spending more than 3 hours per day on social media is associated with significantly higher rates of depression, anxiety, loneliness, and body image issues in adolescents, particularly girls.",
+    "source": "JAMA Pediatrics · @TeenMentalHealth",
+    "isReal": true,
+    "explanation": "Accurate. Multiple prospective studies including those by Jean Twenge and Jonathan Haidt find robust associations between heavy social media use and depression/anxiety in teens, with stronger effects in girls. The mechanisms include social comparison, cyberbullying, sleep disruption, and reduced in-person interaction.",
+    "category": "disease",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_185",
+    "text": "Laughing for 10 minutes per day has been scientifically proven to cure cancer by boosting natural killer cell activity by 400%. Oncologists recommend laughter therapy as a replacement for chemotherapy in early-stage cancer.",
+    "source": "Instagram · @LaughterCuresAll",
+    "isReal": false,
+    "explanation": "False. Laughter does have modest positive effects on mood, stress, and some immune parameters, but no evidence supports it curing cancer. No oncologist recommends laughter therapy as a cancer treatment replacement. The '400% NK cell boost cures cancer' claim is fabricated.",
+    "category": "disease",
+    "difficulty": "easy"
+  },
+  {
+    "id": "card_186",
+    "text": "Measles can be fatal, particularly in malnourished children or those in low-income settings. The WHO estimates measles vaccination prevented 21.1 million deaths between 2000 and 2017.",
+    "source": "WHO Measles Report · @WHOinfo",
+    "isReal": true,
+    "explanation": "Accurate. WHO data shows global measles deaths fell from 536,000 in 2000 to 89,780 in 2016 — a 79% reduction — primarily due to vaccination campaigns. The estimated 21.1 million deaths prevented is widely cited in vaccination advocacy literature.",
+    "category": "vaccines",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_187",
+    "text": "Drinking cold water immediately after a meal causes the fats in your food to solidify in your stomach, leading to cancer and clogged arteries. You should only drink room-temperature or hot water with meals.",
+    "source": "Facebook · @HealthTipsDaily",
+    "isReal": false,
+    "explanation": "False. The human body maintains a constant internal temperature regardless of ingested food or liquid temperatures. Dietary fats are not absorbed from the stomach — they are processed in the small intestine where temperature is constant. Cold water does not solidify fat or cause cancer.",
+    "category": "nutrition",
+    "difficulty": "easy"
+  },
+  {
+    "id": "card_188",
+    "text": "The World Health Organization defines 'One Health' as an integrated approach recognizing that the health of humans, animals, and the environment are closely interconnected and interdependent.",
+    "source": "WHO One Health · @WHOinfo",
+    "isReal": true,
+    "explanation": "Accurate. The 'One Health' concept is formally endorsed by WHO, FAO, UNEP, and WOAH. It recognizes that 75% of emerging infectious diseases originate in animals, and that antibiotic resistance, food safety, and environmental health all require coordinated human-animal-ecosystem approaches.",
+    "category": "WHO",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_189",
+    "text": "Ayurvedic heavy metal medicines ('Rasa shastra') containing lead, mercury, and arsenic have been documented to cause severe poisoning in patients. Several product lines sold in the U.S. and India contain dangerous levels of these metals.",
+    "source": "JAMA Internal Medicine · @AlternativeMedResearch",
+    "isReal": true,
+    "explanation": "Accurate. Multiple peer-reviewed studies and FDA analyses found commercially available Ayurvedic preparations with toxic heavy metal concentrations. A 2008 JAMA study found 20% of U.S.-manufactured and 21% of Indian-manufactured Ayurvedic products contained detectable lead, mercury, or arsenic.",
+    "category": "disease",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_190",
+    "text": "Eating spinach every day will make you as strong as Popeye because spinach contains extremely high levels of iron — more than any other food. Just two cups gives you your entire week's iron requirement.",
+    "source": "TikTok · @SuperfoodFacts",
+    "isReal": false,
+    "explanation": "False. Spinach does contain iron, but it is non-heme (plant-based) iron with poor bioavailability (~2–8% absorbed vs. 15–35% for heme iron in meat). Additionally, spinach's oxalates inhibit iron absorption further. The Popeye myth originated from a misplaced decimal point in 1800s data that overstated spinach's iron content.",
+    "category": "nutrition",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_191",
+    "text": "The HPV vaccine does not encourage sexual activity in adolescents. Multiple large studies have found no difference in rates of sexual initiation or STI diagnoses between vaccinated and unvaccinated teens.",
+    "source": "Pediatrics · @AdolescentHealth",
+    "isReal": true,
+    "explanation": "Accurate. A common objection to HPV vaccination is that it might promote earlier sexual activity. Multiple large studies — including Canadian studies of hundreds of thousands of girls — found no increase in sexual activity, pregnancy, or other STI rates in vaccinated vs. unvaccinated adolescents.",
+    "category": "vaccines",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_192",
+    "text": "All calories are completely equal regardless of their source — 100 calories from broccoli and 100 calories from sugar have identical effects on your body, metabolism, hormones, and long-term health outcomes.",
+    "source": "Blog · @CalorieCountingOnly",
+    "isReal": false,
+    "explanation": "False. While total calorie balance matters for weight, the source of calories affects satiety hormones, gut microbiome, blood sugar response, insulin secretion, liver metabolism, and cardiovascular risk. 100 calories of fiber-rich broccoli has profoundly different metabolic effects than 100 calories of fructose.",
+    "category": "nutrition",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_193",
+    "text": "Resistance training (weightlifting) preserves muscle mass and bone density as people age. Adults who strength train regularly have significantly lower rates of osteoporosis, sarcopenia, falls, and fractures.",
+    "source": "ACSM · @ExerciseMedicine",
+    "isReal": true,
+    "explanation": "Accurate. The American College of Sports Medicine recommends resistance training 2–3 times per week for all adults. Multiple meta-analyses show strength training increases bone mineral density, preserves muscle mass (sarcopenia prevention), improves balance, and reduces fall risk in older adults.",
+    "category": "disease",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_194",
+    "text": "Hospitals give patients unnecessary surgeries all the time because surgeons are paid per procedure. Studies show that 90% of all appendectomies, knee surgeries, and tonsillectomies are unnecessary and driven purely by profit.",
+    "source": "Telegram · @MedicalCorporateScam",
+    "isReal": false,
+    "explanation": "False. While overuse of some procedures is a legitimate concern in healthcare, the '90% unnecessary' claim is fabricated. Appendectomy is emergency surgery for life-threatening infection. Studies on some elective procedures do show geographic variation in rates, but nothing near 90% unnecessary across these categories.",
+    "category": "disease",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_195",
+    "text": "Skin cancer is the most common cancer in the United States, with approximately 9,500 people diagnosed every day. Melanoma is the deadliest form, responsible for 75% of skin cancer deaths despite being only 5% of cases.",
+    "source": "AAD · @SkinCancerPrevention",
+    "isReal": true,
+    "explanation": "Accurate. The American Academy of Dermatology reports ~9,500 skin cancer diagnoses daily. Melanoma accounts for only 5% of skin cancers but causes approximately 75% of skin cancer deaths due to its high metastatic potential. UV exposure from sunlight and tanning beds is the primary risk factor.",
+    "category": "disease",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_196",
+    "text": "The appendix is a useless vestigial organ with no function. Removing it has absolutely no health consequences, and many surgeons recommend elective appendectomy for everyone over 40 to prevent emergency surgery later.",
+    "source": "Blog · @ModernMedicineMyths",
+    "isReal": false,
+    "explanation": "False. The appendix contains lymphoid tissue and may function in gut microbiome recolonization after infection. No mainstream surgical guidelines recommend elective appendectomy in healthy adults. While appendectomy is safe, claiming it has 'zero health consequences' ignores surgical risks and the organ's potential immune functions.",
+    "category": "disease",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_197",
+    "text": "Sickle cell trait (carrying one copy of the sickle cell gene) provides partial protection against severe malaria, which explains why the sickle cell mutation is most prevalent in populations with ancestral exposure to malaria.",
+    "source": "Nature Genetics · @GeneticMedicine",
+    "isReal": true,
+    "explanation": "Accurate. Carriers of one HbS allele have 40–50% reduced risk of severe malaria. This heterozygote advantage explains why sickle cell trait reached high frequencies in sub-Saharan Africa, the Mediterranean, and Middle East — regions historically endemic for malaria. This is a classic example of balancing selection.",
+    "category": "disease",
+    "difficulty": "hard"
+  },
+  {
+    "id": "card_198",
+    "text": "Cryotherapy chambers that cool your body to -100°C (-148°F) permanently repair cellular DNA damage, reverse aging by 15 years, and cure arthritis, depression, and multiple sclerosis with just three sessions.",
+    "source": "Instagram · @CryotherapyMiracles",
+    "isReal": false,
+    "explanation": "False. Whole-body cryotherapy has limited evidence for modest benefits in muscle recovery after intense exercise. Claims that it reverses aging, repairs DNA, or cures autoimmune diseases are not supported by peer-reviewed evidence. The FDA has warned against unproven cryotherapy health claims.",
+    "category": "disease",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_199",
+    "text": "Preterm birth — delivery before 37 weeks of gestation — is the leading cause of death in children under 5 globally and can cause lifelong developmental complications including cerebral palsy, hearing loss, and learning disabilities.",
+    "source": "UNICEF · @MaternalNewbornHealth",
+    "isReal": true,
+    "explanation": "Accurate. WHO and UNICEF data confirm preterm birth as the leading cause of under-5 mortality worldwide (~1 million deaths annually). Survivors face elevated risks of neurodevelopmental impairment. Risk factors include multiple pregnancy, maternal infections, chronic disease, and poverty.",
+    "category": "disease",
+    "difficulty": "medium"
+  },
+  {
+    "id": "card_200",
+    "text": "Ivermectin, hydroxychloroquine, and zinc together form a protocol that prevents COVID-19 with 100% effectiveness. Doctors who used this Frontline COVID-19 Critical Care protocol had zero patient deaths, proving vaccines were never needed.",
+    "source": "Rumble · @FLCCCAllegiance",
+    "isReal": false,
+    "explanation": "False. Multiple large randomized controlled trials (RECOVERY, TOGETHER, ACTIV-6, PRINCIPLE) found hydroxychloroquine and ivermectin ineffective against COVID-19. The 'zero deaths' claims from anecdotal early pandemic reports are confounded by selection bias, patient age, and disease severity differences.",
+    "category": "vaccines",
+    "difficulty": "hard"
   }
 ]
