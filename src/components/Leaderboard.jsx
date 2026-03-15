@@ -9,6 +9,7 @@ export default function Leaderboard({ onClose }) {
   const { user } = useAuth();
   const [entries, setEntries] = useState([]);
   const [loading, setLoading] = useState(true);
+  const [error, setError] = useState('');
 
   useEffect(() => {
     const q = query(
@@ -16,10 +17,18 @@ export default function Leaderboard({ onClose }) {
       orderBy('highScore', 'desc'),
       limit(20)
     );
-    const unsub = onSnapshot(q, (snap) => {
-      setEntries(snap.docs.map(d => ({ id: d.id, ...d.data() })));
-      setLoading(false);
-    });
+    const unsub = onSnapshot(
+      q,
+      (snap) => {
+        setEntries(snap.docs.map(d => ({ id: d.id, ...d.data() })));
+        setLoading(false);
+      },
+      (err) => {
+        setError('Could not load leaderboard. Check Firestore rules.');
+        setLoading(false);
+        console.warn('Leaderboard error:', err.message);
+      }
+    );
     return unsub;
   }, []);
 
@@ -33,6 +42,8 @@ export default function Leaderboard({ onClose }) {
 
         {loading ? (
           <p className="fetching-banner">Loading…</p>
+        ) : error ? (
+          <p className="fetching-banner" style={{ color: '#ef4444' }}>{error}</p>
         ) : entries.length === 0 ? (
           <p className="fetching-banner">No scores yet — be the first!</p>
         ) : (
