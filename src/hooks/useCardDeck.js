@@ -1,6 +1,5 @@
 import { useState, useEffect, useRef } from 'react';
 import initialCards from '../data/posts.json';
-import { fetchMoreCards } from '../api/generateCards';
 import { auth, db } from '../firebase';
 import { doc, setDoc, serverTimestamp } from 'firebase/firestore';
 
@@ -20,12 +19,13 @@ function getMultiplier(streak) {
 }
 
 export function useCardDeck() {
-  const [deck, setDeck] = useState(() => shuffle(initialCards));
+  const ROUND_SIZE = 20;
+  const [deck, setDeck] = useState(() => shuffle(initialCards).slice(0, ROUND_SIZE));
   const [results, setResults] = useState([]);
   const [score, setScore] = useState(0);
   const [streak, setStreak] = useState(0);
   const [lastResult, setLastResult] = useState(null);
-  const [isFetching, setIsFetching] = useState(false);
+  const [isFetching] = useState(false);
   const seenIds = useRef(new Set(initialCards.map(c => c.id)));
   const savedRef = useRef(false); // prevent double-save on re-render
 
@@ -44,20 +44,6 @@ export function useCardDeck() {
     return () => clearTimeout(t);
   }, [lastResult]);
 
-  // Fetch more cards from Claude when deck runs low
-  useEffect(() => {
-    const hasApiKey = !!import.meta.env.VITE_ANTHROPIC_API_KEY;
-    if (deck.length < 5 && !isFetching && hasApiKey) {
-      setIsFetching(true);
-      fetchMoreCards([...seenIds.current])
-        .then(newCards => {
-          newCards.forEach(c => seenIds.current.add(c.id));
-          setDeck(prev => [...prev, ...shuffle(newCards)]);
-        })
-        .catch(err => console.warn('Could not fetch more cards:', err.message))
-        .finally(() => setIsFetching(false));
-    }
-  }, [deck.length, isFetching]);
 
   // Save score to Firestore when game ends
   const isGameOver = deck.length === 0 && !isFetching;
@@ -101,7 +87,7 @@ export function useCardDeck() {
     localStorage.setItem('hfg_gamesPlayed', String(newGamesPlayed));
     savedRef.current = false;
 
-    setDeck(shuffle(initialCards));
+    setDeck(shuffle(initialCards).slice(0, ROUND_SIZE));
     setResults([]);
     setScore(0);
     setStreak(0);
