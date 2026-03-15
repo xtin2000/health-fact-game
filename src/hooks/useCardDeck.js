@@ -1,6 +1,8 @@
 import { useState, useEffect, useRef } from 'react';
 import initialCards from '../data/posts.json';
 import { fetchMoreCards } from '../api/generateCards';
+import { auth, db } from '../firebase';
+import { doc, setDoc, serverTimestamp } from 'firebase/firestore';
 
 function shuffle(arr) {
   const a = [...arr];
@@ -19,12 +21,13 @@ function getMultiplier(streak) {
 
 export function useCardDeck() {
   const [deck, setDeck] = useState(() => shuffle(initialCards));
-  const [results, setResults] = useState([]); // { correct: bool }
+  const [results, setResults] = useState([]);
   const [score, setScore] = useState(0);
   const [streak, setStreak] = useState(0);
-  const [lastResult, setLastResult] = useState(null); // shown by ResultOverlay
+  const [lastResult, setLastResult] = useState(null);
   const [isFetching, setIsFetching] = useState(false);
   const seenIds = useRef(new Set(initialCards.map(c => c.id)));
+  const savedRef = useRef(false); // prevent double-save on re-render
 
   // localStorage — load on first render
   const [highScore, setHighScore] = useState(
@@ -56,8 +59,23 @@ export function useCardDeck() {
     }
   }, [deck.length, isFetching]);
 
+  // Save score to Firestore when game ends
+  const isGameOver = deck.length === 0 && !isFetching;
+  useEffect(() => {
+    if (!isGameOver || savedRef.current) return;
+    const user = auth.currentUser;
+    if (!user) return;
+    savedRef.current = true;
+    const newGamesPlayed = gamesPlayed + 1;
+    setDoc(doc(db, 'leaderboard', user.uid), {
+      username: user.displayName || 'Anonymous',
+      highScore,
+      gamesPlayed: newGamesPlayed,
+      updatedAt: serverTimestamp(),
+    }, { merge: true }).catch(err => console.warn('Leaderboard save failed:', err.message));
+  }, [isGameOver]);
+
   function swipe(direction, card) {
-    // right = guessed REAL, left = guessed FAKE
     const guessedReal = direction === 'right';
     const correct = guessedReal === card.isReal;
     const newStreak = correct ? streak + 1 : 0;
@@ -65,7 +83,6 @@ export function useCardDeck() {
     const points = correct ? 10 * multiplier : 0;
     const newScore = score + points;
 
-    // Update high score in localStorage immediately if beaten
     if (newScore > highScore) {
       setHighScore(newScore);
       localStorage.setItem('hfg_highScore', String(newScore));
@@ -79,10 +96,10 @@ export function useCardDeck() {
   }
 
   function restart() {
-    // Save games played when the user starts a new game (i.e. just finished one)
     const newGamesPlayed = gamesPlayed + 1;
     setGamesPlayed(newGamesPlayed);
     localStorage.setItem('hfg_gamesPlayed', String(newGamesPlayed));
+    savedRef.current = false;
 
     setDeck(shuffle(initialCards));
     setResults([]);
@@ -97,9 +114,6 @@ export function useCardDeck() {
       ? Math.round((results.filter(r => r.correct).length / results.length) * 100)
       : 0;
 
-  const isGameOver = deck.length === 0 && !isFetching;
-
-  // Flag a new record when the game ends
   const isNewRecord = isGameOver && score > 0 && score >= highScore;
 
   return {

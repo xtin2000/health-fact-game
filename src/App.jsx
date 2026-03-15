@@ -1,10 +1,17 @@
+import { useState } from 'react';
+import { useAuth } from './contexts/AuthContext';
 import { useCardDeck } from './hooks/useCardDeck';
+import Auth from './components/Auth';
 import CardStack from './components/CardStack';
 import ScoreBoard from './components/ScoreBoard';
 import ResultOverlay from './components/ResultOverlay';
 import GameOver from './components/GameOver';
+import Leaderboard from './components/Leaderboard';
 
 export default function App() {
+  const { user, username, logout } = useAuth();
+  const [showLeaderboard, setShowLeaderboard] = useState(false);
+
   const {
     deck,
     score,
@@ -21,6 +28,8 @@ export default function App() {
     restart,
   } = useCardDeck();
 
+  if (!user) return <Auth />;
+
   if (isGameOver) {
     return (
       <div className="app">
@@ -32,7 +41,9 @@ export default function App() {
           gamesPlayed={gamesPlayed}
           isNewRecord={isNewRecord}
           onRestart={restart}
+          onLeaderboard={() => setShowLeaderboard(true)}
         />
+        {showLeaderboard && <Leaderboard onClose={() => setShowLeaderboard(false)} />}
       </div>
     );
   }
@@ -42,6 +53,11 @@ export default function App() {
       <header className="app-header">
         <h1 className="app-title">Health Fact Check</h1>
         <ScoreBoard score={score} streak={streak} highScore={highScore} />
+        <div className="user-bar">
+          <span className="user-name">👤 {username}</span>
+          <button className="lb-btn" onClick={() => setShowLeaderboard(true)}>🏆</button>
+          <button className="logout-btn" onClick={logout}>Sign out</button>
+        </div>
       </header>
 
       <div className="instructions">
@@ -61,6 +77,8 @@ export default function App() {
       )}
 
       <ResultOverlay result={lastResult} />
+
+      {showLeaderboard && <Leaderboard onClose={() => setShowLeaderboard(false)} />}
     </div>
   );
 }

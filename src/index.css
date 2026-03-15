@@ -325,3 +325,191 @@ body {
   0%, 100% { opacity: 0.4; }
   50%       { opacity: 0.9; }
 }
+
+/* ── Auth screen ── */
+.auth-screen {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+}
+.auth-card {
+  width: min(380px, 100%);
+  background: rgba(255, 255, 255, 0.07);
+  backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 24px;
+  padding: 36px 28px 32px;
+  text-align: center;
+}
+.auth-subtitle {
+  font-size: 0.8rem;
+  color: rgba(255, 255, 255, 0.45);
+  margin-bottom: 28px;
+}
+.auth-heading {
+  font-size: 1.2rem;
+  font-weight: 700;
+  color: white;
+  margin-bottom: 20px;
+}
+.auth-form {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.auth-input {
+  width: 100%;
+  padding: 13px 16px;
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  background: rgba(255, 255, 255, 0.08);
+  color: white;
+  font-size: 0.95rem;
+  outline: none;
+  transition: border-color 0.2s;
+}
+.auth-input::placeholder { color: rgba(255,255,255,0.35); }
+.auth-input:focus { border-color: #4facfe; }
+.auth-error {
+  font-size: 0.82rem;
+  color: #ef4444;
+  text-align: left;
+  margin: 0;
+}
+.auth-toggle {
+  display: block;
+  margin-top: 18px;
+  background: none;
+  border: none;
+  color: #4facfe;
+  font-size: 0.85rem;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+/* ── User bar ── */
+.user-bar {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 8px;
+  justify-content: center;
+}
+.user-name {
+  font-size: 0.78rem;
+  color: rgba(255,255,255,0.6);
+}
+.lb-btn {
+  background: none;
+  border: none;
+  font-size: 1.1rem;
+  cursor: pointer;
+  padding: 2px 4px;
+}
+.logout-btn {
+  background: none;
+  border: 1px solid rgba(255,255,255,0.2);
+  color: rgba(255,255,255,0.5);
+  font-size: 0.72rem;
+  padding: 4px 10px;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: opacity 0.15s;
+}
+.logout-btn:hover { opacity: 0.7; }
+
+/* ── Game over buttons ── */
+.game-over-btns {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: center;
+}
+.leaderboard-btn {
+  background: rgba(255,255,255,0.08);
+  border: 1px solid rgba(255,255,255,0.2);
+  color: white;
+  font-weight: 600;
+  font-size: 0.95rem;
+  padding: 13px 44px;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: transform 0.15s, opacity 0.15s;
+}
+.leaderboard-btn:hover { transform: scale(1.04); opacity: 0.85; }
+
+/* ── Leaderboard overlay ── */
+.lb-overlay {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.85);
+  backdrop-filter: blur(6px);
+  z-index: 200;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+.lb-card {
+  width: min(420px, 100%);
+  max-height: 80vh;
+  background: linear-gradient(135deg, #1a1740 0%, #302b63 100%);
+  border: 1px solid rgba(255,255,255,0.15);
+  border-radius: 24px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+}
+.lb-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 24px 16px;
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+}
+.lb-title {
+  font-size: 1.2rem;
+  font-weight: 800;
+  color: white;
+}
+.lb-close {
+  background: none;
+  border: none;
+  color: rgba(255,255,255,0.5);
+  font-size: 1.1rem;
+  cursor: pointer;
+  padding: 4px 8px;
+  border-radius: 8px;
+}
+.lb-close:hover { color: white; }
+.lb-list {
+  overflow-y: auto;
+  padding: 8px 0 16px;
+}
+.lb-row {
+  display: grid;
+  grid-template-columns: 44px 1fr 64px 56px;
+  align-items: center;
+  padding: 10px 24px;
+  font-size: 0.88rem;
+  color: rgba(255,255,255,0.8);
+}
+.lb-row-header {
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  color: rgba(255,255,255,0.35);
+  padding-bottom: 6px;
+}
+.lb-row:not(.lb-row-header):hover { background: rgba(255,255,255,0.05); }
+.lb-mine {
+  background: rgba(79,172,254,0.12) !important;
+  color: #4facfe;
+  font-weight: 700;
+}
+.lb-col-rank { font-size: 1rem; }
+.lb-col-name { font-weight: 600; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.lb-col-score { text-align: right; font-weight: 700; color: #4facfe; }
+.lb-col-games { text-align: right; color: rgba(255,255,255,0.4); font-size: 0.8rem; }

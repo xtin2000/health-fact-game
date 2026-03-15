@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 
-export default function GameOver({ score, accuracy, totalAnswered, highScore, gamesPlayed, isNewRecord, onRestart }) {
+export default function GameOver({ score, accuracy, totalAnswered, highScore, gamesPlayed, isNewRecord, onRestart, onLeaderboard }) {
   const grade =
     accuracy >= 90 ? 'S' :
     accuracy >= 75 ? 'A' :
@@ -52,9 +52,10 @@ export default function GameOver({ score, accuracy, totalAnswered, highScore, ga
         </div>
       </div>
 
-      <button className="restart-btn" onClick={onRestart}>
-        Play Again
-      </button>
+      <div className="game-over-btns">
+        <button className="restart-btn" onClick={onRestart}>Play Again</button>
+        <button className="leaderboard-btn" onClick={onLeaderboard}>🏆 Leaderboard</button>
+      </div>
     </motion.div>
   );
 }
