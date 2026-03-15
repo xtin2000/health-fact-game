@@ -20,8 +20,12 @@ export function AuthProvider({ children }) {
     return onAuthStateChanged(auth, async (u) => {
       setUser(u);
       if (u) {
-        const snap = await getDoc(doc(db, 'users', u.uid));
-        setUsername(snap.exists() ? snap.data().username : u.displayName || '');
+        try {
+          const snap = await getDoc(doc(db, 'users', u.uid));
+          setUsername(snap.exists() ? snap.data().username : u.displayName || '');
+        } catch {
+          setUsername(u.displayName || '');
+        }
       } else {
         setUsername('');
       }
