@@ -37,12 +37,6 @@ export function useCardDeck() {
     () => parseInt(localStorage.getItem('hfg_gamesPlayed') || '0', 10)
   );
 
-  // Auto-dismiss result overlay after 2.5 s
-  useEffect(() => {
-    if (!lastResult) return;
-    const t = setTimeout(() => setLastResult(null), 2500);
-    return () => clearTimeout(t);
-  }, [lastResult]);
 
 
   // Save score to Firestore when game ends

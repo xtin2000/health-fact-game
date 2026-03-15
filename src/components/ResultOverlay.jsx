@@ -5,22 +5,14 @@ export default function ResultOverlay({ result }) {
     <AnimatePresence>
       {result && (
         <motion.div
-          className="result-overlay"
-          initial={{ opacity: 0 }}
-          animate={{ opacity: 1 }}
-          exit={{ opacity: 0 }}
-          transition={{ duration: 0.2 }}
+          className={`result-overlay ${result.correct ? 'result-overlay--correct' : 'result-overlay--wrong'}`}
+          initial={{ opacity: 0, x: 40 }}
+          animate={{ opacity: 1, x: 0 }}
+          exit={{ opacity: 0, x: 40 }}
+          transition={{ duration: 0.25 }}
         >
-          <motion.div
-            className={`result-icon ${result.correct ? 'result-correct' : 'result-wrong'}`}
-            initial={{ scale: 0.5 }}
-            animate={{ scale: 1 }}
-            transition={{ type: 'spring', stiffness: 300, damping: 18 }}
-          >
-            {result.correct ? '✓' : '✗'}
-          </motion.div>
-
           <div className={`result-verdict ${result.correct ? 'result-correct' : 'result-wrong'}`}>
+            {result.correct ? '✓' : '✗'}{' '}
             {result.correct
               ? `Correct!${result.points > 10 ? ` +${result.points} (${result.multiplier}× streak!)` : ` +${result.points}`}`
               : `Wrong — it was ${result.card.isReal ? 'REAL' : 'FAKE'}`}
